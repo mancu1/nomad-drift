@@ -56,6 +56,8 @@ export function SettingsPanel({ state, maxR, crit, eligibleCount, deadEnds, onSe
   const current = state.route[state.route.length - 1];
   const fileRef = useRef<HTMLInputElement>(null);
   const [importError, setImportError] = useState('');
+  const [confirmReset, setConfirmReset] = useState(false);
+  const [copied, setCopied] = useState(false);
 
   const exportJson = () => {
     const blob = new Blob([JSON.stringify(state, null, 2)], { type: 'application/json' });
@@ -64,6 +66,16 @@ export function SettingsPanel({ state, maxR, crit, eligibleCount, deadEnds, onSe
     a.download = `nomad-drift-${new Date().toISOString().slice(0, 10)}.json`;
     a.click();
     URL.revokeObjectURL(a.href);
+  };
+
+  const copyJson = async () => {
+    try {
+      await navigator.clipboard.writeText(JSON.stringify(state, null, 2));
+      setCopied(true);
+      window.setTimeout(() => setCopied(false), 2000);
+    } catch {
+      setImportError('Браузер не дал доступ к буферу обмена — используйте «Экспорт JSON».');
+    }
   };
 
   const importJson = async (file: File | undefined) => {
@@ -174,13 +186,19 @@ export function SettingsPanel({ state, maxR, crit, eligibleCount, deadEnds, onSe
           <h3>Данные</h3>
           <div className="row">
             <button type="button" className="btn" onClick={exportJson}>Экспорт JSON</button>
+            <button type="button" className="btn" onClick={() => void copyJson()}>{copied ? 'Скопировано' : 'Копировать JSON'}</button>
             <button type="button" className="btn" onClick={() => fileRef.current?.click()}>Импорт JSON</button>
             <input ref={fileRef} type="file" accept="application/json,.json" hidden onChange={(e) => { void importJson(e.target.files?.[0]); e.target.value = ''; }} />
           </div>
           {importError && <p className="warn">{importError}</p>}
-          <button type="button" className="btn btn-danger" onClick={() => window.confirm('Сбросить пройденный маршрут?') && onReset()}>
-            Сбросить маршрут
-          </button>
+          {confirmReset ? (
+            <div className="row">
+              <button type="button" className="btn btn-danger" onClick={() => { onReset(); setConfirmReset(false); }}>Да, сбросить</button>
+              <button type="button" className="btn" onClick={() => setConfirmReset(false)}>Отмена</button>
+            </div>
+          ) : (
+            <button type="button" className="btn btn-danger" onClick={() => setConfirmReset(true)}>Сбросить маршрут</button>
+          )}
           <p className="muted small">Seed маршрута: {state.seed}, вращений: {state.spin}. Состояние хранится только в этом браузере.</p>
         </div>
       </section>

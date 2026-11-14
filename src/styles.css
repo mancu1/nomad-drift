@@ -148,6 +148,7 @@ button, select, input { font: inherit; color: inherit; }
 .btn-primary { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
 .btn-primary:hover { filter: brightness(1.08); }
 .btn-danger { color: var(--bad); width: 100%; }
+.row .btn-danger { width: auto; }
 .btn-spin { min-height: 60px; font-size: 1.2rem; width: 100%; }
 .btn:disabled { cursor: default; filter: saturate(0.6); }
 .link { background: none; border: 0; padding: 0; color: var(--accent); text-decoration: underline; cursor: pointer; }

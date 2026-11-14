@@ -1,0 +1,324 @@
+[
+ {
+  "iso2": "US",
+  "hub": {
+   "city_ru": "Нью-Йорк",
+   "iata": "JFK"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): требуется виза."
+  }
+ },
+ {
+  "iso2": "CA",
+  "hub": {
+   "city_ru": "Торонто",
+   "iata": "YYZ"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): требуется виза."
+  }
+ },
+ {
+  "iso2": "MX",
+  "hub": {
+   "city_ru": "Канкун",
+   "iata": "CUN"
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 180,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы до 180 дней посредством системы электронных разрешений (SAE), которое нужно получить онлайн до поездки; по данным СМИ, разрешение бесплатное, однократное, только для прилёта авиарейсом; фактический срок определяет офицер на границе."
+  }
+ },
+ {
+  "iso2": "BZ",
+  "hub": {
+   "city_ru": "Белиз",
+   "iata": "BZE"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы до 90 дней в течение 180 дней (соглашение от 23.09.2021)."
+  }
+ },
+ {
+  "iso2": "CR",
+  "hub": {
+   "city_ru": "Сан-Хосе",
+   "iata": "SJO"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): по соглашению 2018 г. без визы до 90 дней, но в сноске МИД: фактически до 30 дней с возможностью формального продления до 90 дней."
+  }
+ },
+ {
+  "iso2": "SV",
+  "hub": {
+   "city_ru": "Сан-Сальвадор",
+   "iata": "SAL"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы до 90 дней в течение 180 дней."
+  }
+ },
+ {
+  "iso2": "GT",
+  "hub": {
+   "city_ru": "Гватемала",
+   "iata": "GUA"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы до 90 дней в течение 180 дней."
+  }
+ },
+ {
+  "iso2": "HN",
+  "hub": {
+   "city_ru": "Сан-Педро-Сула",
+   "iata": "SAP"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы до 90 дней в течение 180 дней."
+  }
+ },
+ {
+  "iso2": "NI",
+  "hub": {
+   "city_ru": "Манагуа",
+   "iata": "MGA"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы до 90 дней в течение 180 дней."
+  }
+ },
+ {
+  "iso2": "PA",
+  "hub": {
+   "city_ru": "Панама",
+   "iata": "PTY"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы до 90 дней в течение 180 дней."
+  }
+ },
+ {
+  "iso2": "AG",
+  "hub": {
+   "city_ru": "Сент-Джонс",
+   "iata": "ANU"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы до 90 дней в течение 180 дней."
+  }
+ },
+ {
+  "iso2": "BS",
+  "hub": {
+   "city_ru": "Нассау",
+   "iata": "NAS"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы до 90 дней (в одностороннем порядке)."
+  }
+ },
+ {
+  "iso2": "BB",
+  "hub": {
+   "city_ru": "Бриджтаун",
+   "iata": "BGI"
+  },
+  "visa": {
+   "regime": "free",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы (в одностороннем порядке), срок в таблице не указан; официального подтверждения срока не найдено (в неофициальных источниках 28–90 дней)."
+  }
+ },
+ {
+  "iso2": "CU",
+  "hub": {
+   "city_ru": "Гавана",
+   "iata": "HAV"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы до 90 суток в течение 180 дней."
+  }
+ },
+ {
+  "iso2": "DM",
+  "hub": {
+   "city_ru": "Розо",
+   "iata": "DOM"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы до 90 дней в течение 180 дней."
+  }
+ },
+ {
+  "iso2": "DO",
+  "hub": {
+   "city_ru": "Пунта-Кана",
+   "iata": "PUJ"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 60,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы до 60 дней в течение 180 дней (соглашение от 26.11.2018)."
+  }
+ },
+ {
+  "iso2": "GD",
+  "hub": {
+   "city_ru": "Сент-Джорджес",
+   "iata": "GND"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы до 90 дней в течение 180 дней."
+  }
+ },
+ {
+  "iso2": "HT",
+  "hub": {
+   "city_ru": "Порт-о-Пренс",
+   "iata": "PAP"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": null,
+   "note_ru": "Источники расходятся: в таблице КД МИД России (13.11.2026) для общегражданских паспортов указано «требуется виза», неофициальные агрегаторы сообщают о безвизовом въезде до 90 дней. Выбран более строгий вариант."
+  }
+ },
+ {
+  "iso2": "JM",
+  "hub": {
+   "city_ru": "Монтего-Бей",
+   "iata": "MBJ"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы до 90 дней в течение 1 года."
+  }
+ },
+ {
+  "iso2": "KN",
+  "hub": {
+   "city_ru": "Бастер",
+   "iata": "SKB"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы до 90 дней из каждых 180 дней."
+  }
+ },
+ {
+  "iso2": "LC",
+  "hub": {
+   "city_ru": "Вьё-Фор",
+   "iata": "UVF"
+  },
+  "visa": {
+   "regime": "free",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы (в одностороннем порядке), срок в таблице не указан; по неофициальным данным — до 6 недель, официально подтвердить не удалось."
+  }
+ },
+ {
+  "iso2": "VC",
+  "hub": {
+   "city_ru": "Кингстаун",
+   "iata": "SVD"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы до 90 дней в течение 180 дней."
+  }
+ },
+ {
+  "iso2": "TT",
+  "hub": {
+   "city_ru": "Порт-оф-Спейн",
+   "iata": "POS"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы до 90 дней (в одностороннем порядке)."
+  }
+ }
+]

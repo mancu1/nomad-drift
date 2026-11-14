@@ -1,0 +1,282 @@
+[
+ {
+  "iso2": "AE",
+  "hub": {
+   "city_ru": "Дубай",
+   "iata": "DXB"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Без визы до 90 дней в течение 180 дней (соглашение от 06.07.2018); перечень МИД РФ на 13.11.2026."
+  }
+ },
+ {
+  "iso2": "BH",
+  "hub": {
+   "city_ru": "Манама",
+   "iata": "BAH"
+  },
+  "visa": {
+   "regime": "voa",
+   "days": 14,
+   "source_url": "https://www.kdmid.ru/docs/bahrain/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Виза по прибытии на 2 недели во всех пунктах въезда, сбор 5 BHD; продление до месяца. В сводном перечне МИД РФ — «требуется виза»."
+  }
+ },
+ {
+  "iso2": "EG",
+  "hub": {
+   "city_ru": "Каир",
+   "iata": "CAI"
+  },
+  "visa": {
+   "regime": "voa",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/docs/egypt/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Виза по прибытии в аэропорту (36 USD) или онлайн на visaonarrival.gov.eg, срок 1 месяц; при прилёте в Шарм-эш-Шейх — бесплатный синайский штамп на 15 дней (только Южный Синай)."
+  }
+ },
+ {
+  "iso2": "IL",
+  "hub": {
+   "city_ru": "Тель-Авив",
+   "iata": "TLV"
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/docs/israel/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Без визы до 90 дней в течение 180, но обязательно заранее оформить электронное разрешение ETA-IL (не позднее чем за 72 ч, 25 шекелей)."
+  }
+ },
+ {
+  "iso2": "IQ",
+  "hub": {
+   "city_ru": "Багдад",
+   "iata": "BGW"
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 30,
+   "source_url": "https://evisa.iq/en",
+   "verified_at": null,
+   "note_ru": "МИД РФ: требуется виза. Официальный портал evisa.iq выдаёт e-visa на 30 дней, но допуск именно граждан РФ и отмену визы по прибытии по официальным источникам подтвердить не удалось (агрегаторы расходятся)."
+  }
+ },
+ {
+  "iso2": "IR",
+  "hub": {
+   "city_ru": "Тегеран",
+   "iata": "IKA"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": null,
+   "note_ru": "Источники расходятся. Перечень МИД РФ: требуется виза, без визы только организованные тургруппы (до 15 суток). Страница МИД РФ по Ирану: электронное разрешение на e_visa.mfa.ir с получением визы в консульстве или аэропорту. По неофициальным данным (2025), самостоятельная подача для россиян закрыта, только через турфирмы. Выбран более строгий вариант."
+  }
+ },
+ {
+  "iso2": "JO",
+  "hub": {
+   "city_ru": "Амман",
+   "iata": "AMM"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Без визы до 30 дней за поездку, суммарно не более 90 дней в календарном году (соглашение от 20.08.2025)."
+  }
+ },
+ {
+  "iso2": "KW",
+  "hub": {
+   "city_ru": "Эль-Кувейт",
+   "iata": "KWI"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется виза (перечень МИД РФ на 13.11.2026); по странице МИД РФ — через консульство и приглашение спонсора, онлайн-заявка только при наличии многократной визы стран ССАГПЗ."
+  }
+ },
+ {
+  "iso2": "LB",
+  "hub": {
+   "city_ru": "Бейрут",
+   "iata": "BEY"
+  },
+  "visa": {
+   "regime": "voa",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/docs/lebanon/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Виза по прибытии до 1 месяца; в аэропорту Бейрута ставится бесплатно. В сводном перечне МИД РФ — «требуется виза»."
+  }
+ },
+ {
+  "iso2": "OM",
+  "hub": {
+   "city_ru": "Маскат",
+   "iata": "MCT"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Без визы до 30 дней за поездку, суммарно не более 90 дней в календарном году (соглашение от 22.04.2025)."
+  }
+ },
+ {
+  "iso2": "PS",
+  "hub": {
+   "city_ru": "Тель-Авив",
+   "iata": "TLV"
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Перечень МИД РФ: палестинская виза требуется формально, но своего погранконтроля нет — въезд только через израильские КПП (с территории Израиля или Иордании), т.е. действуют израильские правила: ETA-IL, до 90 дней. Своего аэропорта нет; ближайший — Тель-Авив (альтернатива — Амман)."
+  }
+ },
+ {
+  "iso2": "QA",
+  "hub": {
+   "city_ru": "Доха",
+   "iata": "DOH"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Без визы до 90 дней в течение 180 дней (соглашение от 27.12.2019)."
+  }
+ },
+ {
+  "iso2": "SA",
+  "hub": {
+   "city_ru": "Джидда",
+   "iata": "JED"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Без визы до 90 дней в течение календарного года (соглашение от 01.12.2025); не распространяется на хадж и умру в период хаджа."
+  }
+ },
+ {
+  "iso2": "SY",
+  "hub": {
+   "city_ru": "Дамаск",
+   "iata": "DAM"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/syria/information-about-the-country/",
+   "verified_at": null,
+   "note_ru": "Перечень МИД РФ: требуется виза. Страница МИД РФ по Сирии (данные 2024 г.): визу можно получить на границе/в аэропорту при наличии приглашения сирийской стороны (50 USD); актуальность и срок пребывания не подтверждены, МИД РФ рекомендует воздержаться от поездок. Выбран более строгий вариант."
+  }
+ },
+ {
+  "iso2": "YE",
+  "hub": {
+   "city_ru": "Аден",
+   "iata": "ADE"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется виза (перечень МИД РФ на 13.11.2026)."
+  }
+ },
+ {
+  "iso2": "DZ",
+  "hub": {
+   "city_ru": "Алжир",
+   "iata": "ALG"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется виза (перечень МИД РФ на 13.11.2026); безвиз только для дипломатических и служебных паспортов."
+  }
+ },
+ {
+  "iso2": "LY",
+  "hub": {
+   "city_ru": "Триполи",
+   "iata": "MJI"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется виза (перечень МИД РФ на 13.11.2026)."
+  }
+ },
+ {
+  "iso2": "MA",
+  "hub": {
+   "city_ru": "Касабланка",
+   "iata": "CMN"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Без визы до 90 дней (в одностороннем порядке)."
+  }
+ },
+ {
+  "iso2": "TN",
+  "hub": {
+   "city_ru": "Тунис",
+   "iata": "TUN"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Без визы до 90 дней (в одностороннем порядке)."
+  }
+ },
+ {
+  "iso2": "SD",
+  "hub": {
+   "city_ru": "Порт-Судан",
+   "iata": "PZU"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется виза (перечень МИД РФ на 13.11.2026); безвиз только для дипломатических паспортов."
+  }
+ }
+]

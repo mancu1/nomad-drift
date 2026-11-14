@@ -1,0 +1,366 @@
+[
+ {
+  "iso2": "AF",
+  "hub": {
+   "city_ru": "Кабул",
+   "iata": "KBL"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "По перечню КД МИД России (на 13.11.2026) — требуется виза."
+  }
+ },
+ {
+  "iso2": "BD",
+  "hub": {
+   "city_ru": "Дакка",
+   "iata": "DAC"
+  },
+  "visa": {
+   "regime": "voa",
+   "days": 30,
+   "source_url": "https://voa.specialbranch.gov.bd/public/voa-info.html",
+   "verified_at": "2026-11-14",
+   "note_ru": "Виза по прибытии до 30 дней, однократная; Россия в списке стран, имеющих право на VOA (портал Special Branch). По перечню КД МИД — требуется виза (безвиза нет)."
+  }
+ },
+ {
+  "iso2": "BT",
+  "hub": {
+   "city_ru": "Паро",
+   "iata": "PBH"
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": null,
+   "source_url": "https://bhutan.travel/visa",
+   "verified_at": null,
+   "note_ru": "Виза оформляется онлайн до поездки (immi.gov.bt), сбор 40 USD + SDF 100 USD/сутки. Максимальный срок пребывания в официальном источнике не найден, поэтому запись не подтверждена полностью."
+  }
+ },
+ {
+  "iso2": "IN",
+  "hub": {
+   "city_ru": "Мумбаи",
+   "iata": "BOM"
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 30,
+   "source_url": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+   "verified_at": "2026-11-14",
+   "note_ru": "Россия в списке e-Visa. Электронная туристическая виза на 30 дней (есть также на 1 год и 5 лет)."
+  }
+ },
+ {
+  "iso2": "MV",
+  "hub": {
+   "city_ru": "Мале",
+   "iata": "MLE"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "По перечню КД МИД России — без визы до 90 дней. Перед прилётом заполняется бесплатная онлайн-декларация IMUGA."
+  }
+ },
+ {
+  "iso2": "NP",
+  "hub": {
+   "city_ru": "Катманду",
+   "iata": "KTM"
+  },
+  "visa": {
+   "regime": "voa",
+   "days": 90,
+   "source_url": "https://ru.nepalembassy.gov.np/pages/visa-2/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Виза по прибытии в аэропорту Катманду на 15/30/90 дней (30/50/125 USD); Россия не входит в список исключённых стран."
+  }
+ },
+ {
+  "iso2": "PK",
+  "hub": {
+   "city_ru": "Карачи",
+   "iata": "KHI"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": null,
+   "note_ru": "Источники расходятся: по перечню и страновой странице КД МИД России требуется виза (через посольство); по вторичным данным со ссылкой на посольство Пакистана виза оформляется онлайн (visa.nadra.gov.pk), но официальные страницы открыть не удалось. Выбран более строгий вариант."
+  }
+ },
+ {
+  "iso2": "LK",
+  "hub": {
+   "city_ru": "Коломбо",
+   "iata": "CMB"
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 30,
+   "source_url": "https://www.immigration.gov.lk/content/files/visa/Free%20Tourist%20Visas%20for%20Nationals%20of%2040%20Selected%20Countries.pdf",
+   "verified_at": "2026-11-14",
+   "note_ru": "Обязательное электронное разрешение ETA до прилёта; с 25.05.2026 для граждан России бесплатно, 30 дней, двукратный въезд."
+  }
+ },
+ {
+  "iso2": "CN",
+  "hub": {
+   "city_ru": "Шанхай",
+   "iata": "PVG"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Безвиз до 30 дней в одностороннем порядке (туризм, деловые цели). В перечне КД МИД срок действия указан до 14.09.2026; по сообщениям МИД КНР (май 2026) продлён до 31.12.2027."
+  }
+ },
+ {
+  "iso2": "HK",
+  "hub": {
+   "city_ru": "Гонконг",
+   "iata": "HKG"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 14,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Без визы до 14 дней."
+  }
+ },
+ {
+  "iso2": "MO",
+  "hub": {
+   "city_ru": "Макао",
+   "iata": "MFM"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Без визы до 30 дней."
+  }
+ },
+ {
+  "iso2": "TW",
+  "hub": {
+   "city_ru": "Тайбэй",
+   "iata": "TPE"
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 30,
+   "source_url": "https://visawebapp.boca.gov.tw/BOCA_EVISA/MRV04FORM.do",
+   "verified_at": "2026-11-14",
+   "note_ru": "Электронная виза для обычных паспортов РФ с 07.07.2026 по 06.07.2027: однократная, до 30 дней, без продления."
+  }
+ },
+ {
+  "iso2": "JP",
+  "hub": {
+   "city_ru": "Токио",
+   "iata": "NRT"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется виза (перечень и страновая страница КД МИД России)."
+  }
+ },
+ {
+  "iso2": "KP",
+  "hub": {
+   "city_ru": "Пхеньян",
+   "iata": "FNJ"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "По перечню КД МИД России для общегражданских паспортов требуется виза (безвиз до 90 дней — только для дипломатических/служебных)."
+  }
+ },
+ {
+  "iso2": "KR",
+  "hub": {
+   "city_ru": "Сеул",
+   "iata": "ICN"
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 60,
+   "source_url": "https://www.k-eta.go.kr/portal/guide/viewetaalification.do",
+   "verified_at": "2026-11-14",
+   "note_ru": "Безвиз до 60 дней подряд (не более 90 за 180), но обязательно электронное разрешение K-ETA до поездки; Россия в списке стран K-ETA. Освобождены лица до 17 и от 65 лет."
+  }
+ },
+ {
+  "iso2": "BN",
+  "hub": {
+   "city_ru": "Бандар-Сери-Бегаван",
+   "iata": "BWN"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 14,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Без визы до 14 дней."
+  }
+ },
+ {
+  "iso2": "KH",
+  "hub": {
+   "city_ru": "Пномпень",
+   "iata": "KTI"
+  },
+  "visa": {
+   "regime": "voa",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/docs/cambodia/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Туристическая виза по прибытии (30 USD) на месяц, либо e-visa на evisa.gov.kh; перед прилётом заполняется бесплатная форма e-Arrival."
+  }
+ },
+ {
+  "iso2": "ID",
+  "hub": {
+   "city_ru": "Джакарта",
+   "iata": "CGK"
+  },
+  "visa": {
+   "regime": "voa",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/docs/indonesia/information-about-the-country/",
+   "verified_at": null,
+   "note_ru": "Источники расходятся: в перечне КД МИД России — без визы до 30 дней (односторонне), на страновой странице КД МИД — безвиз временно не действует, доступна виза по прибытии; по вторичным данным VOA/e-VOA 30 дней (500 000 рупий). Официальный портал иммиграции открыть не удалось. Выбран более строгий вариант."
+  }
+ },
+ {
+  "iso2": "LA",
+  "hub": {
+   "city_ru": "Вьентьян",
+   "iata": "VTE"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Без визы до 30 дней."
+  }
+ },
+ {
+  "iso2": "MY",
+  "hub": {
+   "city_ru": "Куала-Лумпур",
+   "iata": "KUL"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Без визы до 30 дней (в одностороннем порядке)."
+  }
+ },
+ {
+  "iso2": "MM",
+  "hub": {
+   "city_ru": "Янгон",
+   "iata": "RGN"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Без визы до 30 дней за поездку, суммарно не более 90 дней в календарном году (соглашение действует с 27.01.2026)."
+  }
+ },
+ {
+  "iso2": "PH",
+  "hub": {
+   "city_ru": "Манила",
+   "iata": "MNL"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Без визы до 30 дней (в одностороннем порядке)."
+  }
+ },
+ {
+  "iso2": "SG",
+  "hub": {
+   "city_ru": "Сингапур",
+   "iata": "SIN"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://moscow.mfa.gov.sg/visa-information/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется виза; подаётся заранее через авторизованного визового агента (сбор 30 SGD)."
+  }
+ },
+ {
+  "iso2": "TH",
+  "hub": {
+   "city_ru": "Бангкок",
+   "iata": "BKK"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Без визы до 30 дней (с 15.09.2026 вместо 60). Перед прилётом заполняется бесплатная цифровая карта прибытия TDAC."
+  }
+ },
+ {
+  "iso2": "TL",
+  "hub": {
+   "city_ru": "Дили",
+   "iata": "DIL"
+  },
+  "visa": {
+   "regime": "voa",
+   "days": 30,
+   "source_url": "https://migracao.gov.tl/wp/tourist-visa/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Туристическая виза по прибытии: до 30 дней, однократная, 30 USD наличными."
+  }
+ },
+ {
+  "iso2": "VN",
+  "hub": {
+   "city_ru": "Хошимин",
+   "iata": "SGN"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 45,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Без визы до 45 дней (в одностороннем порядке)."
+  }
+ }
+]

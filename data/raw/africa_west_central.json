@@ -1,0 +1,352 @@
+[
+ {
+  "iso2": "BJ",
+  "hub": {
+   "city_ru": "Котону",
+   "iata": "COO"
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/docs/benin/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Обязательная e-виза (evisa.gouv.bj): 30 дней одно-/многократная или 90 дней многократная."
+  }
+ },
+ {
+  "iso2": "BF",
+  "hub": {
+   "city_ru": "Уагадугу",
+   "iata": "OUA"
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/docs/burkina-faso/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "E-виза через систему «evisa Burkina» (с 2022 г.), краткосрочные поездки до 90 дней."
+  }
+ },
+ {
+  "iso2": "CV",
+  "hub": {
+   "city_ru": "Сал",
+   "iata": "SID"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 60,
+   "source_url": "https://www.kdmid.ru/docs/cape-verde/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Без визы по соглашению 2019 г.: до 60 дней за поездку, суммарно 90 дней за 12 месяцев. Возможны онлайн-предрегистрация и аэропортовый сбор — в источнике МИД не упомянуты."
+  }
+ },
+ {
+  "iso2": "CI",
+  "hub": {
+   "city_ru": "Абиджан",
+   "iata": "ABJ"
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/docs/cote-d-ivoire/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "E-виза через snedai.com (предварительная онлайн-заявка), срок действия 90 дней."
+  }
+ },
+ {
+  "iso2": "GM",
+  "hub": {
+   "city_ru": "Банжул",
+   "iata": "BJL"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/gambia/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "По данным МИД РФ визы оформляются в посольстве Гамбии (Москва, Дакар). Сторонние сайты противоречивы (часть пишет о безвизе) — официально не подтверждено."
+  }
+ },
+ {
+  "iso2": "GH",
+  "hub": {
+   "city_ru": "Аккра",
+   "iata": "ACC"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/ghana/information-about-the-country/",
+   "verified_at": null,
+   "note_ru": "МИД РФ: виза в посольстве Ганы в Москве. 25.05.2026 Гана запустила портал e-визы (mfa.gov.gh), но доступность для россиян и срок пребывания подтвердить не удалось — выбран более строгий режим."
+  }
+ },
+ {
+  "iso2": "GN",
+  "hub": {
+   "city_ru": "Конакри",
+   "iata": "CKY"
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/docs/guinea/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "E-виза (paf.gov.gn), однократная на 90 суток."
+  }
+ },
+ {
+  "iso2": "GW",
+  "hub": {
+   "city_ru": "Бисау",
+   "iata": "OXB"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/guinea-bissau/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Нужна виза; МИД РФ рекомендует оформлять заранее в посольстве Гвинеи-Бисау в Москве (обычно на 1–3 месяца)."
+  }
+ },
+ {
+  "iso2": "LR",
+  "hub": {
+   "city_ru": "Монровия",
+   "iata": "ROB"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/liberia/information-about-the-country/",
+   "verified_at": null,
+   "note_ru": "МИД РФ: визовый режим, визы в посольствах Либерии (в России посольства нет). По неофициальным данным с 2025 г. действует онлайн e-Visa on Arrival (visaonarrival.lis.gov.lr, до 30 дней) — для россиян не подтверждено, выбран более строгий режим."
+  }
+ },
+ {
+  "iso2": "ML",
+  "hub": {
+   "city_ru": "Бамако",
+   "iata": "BKO"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/mali/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Виза в посольстве Мали; получение визы в аэропорту Бамако невозможно."
+  }
+ },
+ {
+  "iso2": "MR",
+  "hub": {
+   "city_ru": "Нуакшот",
+   "iata": "NKC"
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/docs/mauritania/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Обязательная e-виза (anrpts.gov.mr); срок действия визы 30/90/360/720 дней, указан минимальный вариант."
+  }
+ },
+ {
+  "iso2": "NE",
+  "hub": {
+   "city_ru": "Ниамей",
+   "iata": "NIM"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/niger/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Виза только в представительствах Нигера в третьих странах; в аэропорту Ниамея не выдаётся."
+  }
+ },
+ {
+  "iso2": "NG",
+  "hub": {
+   "city_ru": "Лагос",
+   "iata": "LOS"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/nigeria/information-about-the-country/",
+   "verified_at": null,
+   "note_ru": "МИД РФ: визы в диппредставительствах Нигерии. С 01.05.2025 действует e-виза (evisa.immigration.gov.ng), виза по прилёту отменена; доступность e-визы для россиян подтвердить не удалось — выбран более строгий режим."
+  }
+ },
+ {
+  "iso2": "SN",
+  "hub": {
+   "city_ru": "Дакар",
+   "iata": "DSS"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/senegal/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "МИД РФ: въездные документы оформляются заранее в посольстве Сенегала в Москве (поездки до 90 дней). Сторонние сайты противоречивы (безвиз/виза по прилёту) — официально не подтверждено."
+  }
+ },
+ {
+  "iso2": "SL",
+  "hub": {
+   "city_ru": "Фритаун",
+   "iata": "FNA"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/sierra-leone/information-about-the-country/",
+   "verified_at": null,
+   "note_ru": "МИД РФ: визы в посольстве Сьерра-Леоне в Москве. У иммиграционной службы есть e-виза/виза по прилёту (slid.gov.sl, evisa.sl), но условия для россиян подтвердить не удалось — выбран более строгий режим."
+  }
+ },
+ {
+  "iso2": "TG",
+  "hub": {
+   "city_ru": "Ломе",
+   "iata": "LFW"
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/docs/togo/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "E-виза через voyage.gouv.tg, подавать не менее чем за 7 дней; до 90 дней."
+  }
+ },
+ {
+  "iso2": "CM",
+  "hub": {
+   "city_ru": "Дуала",
+   "iata": "DLA"
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/cameroon/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "С 2023 г. система eVisa (evisacam.cm), либо посольство в Москве; срок пребывания в источнике не указан."
+  }
+ },
+ {
+  "iso2": "CF",
+  "hub": {
+   "city_ru": "Банги",
+   "iata": "BGF"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/central-african-republic/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Виза в посольстве ЦАР в Москве."
+  }
+ },
+ {
+  "iso2": "TD",
+  "hub": {
+   "city_ru": "Нджамена",
+   "iata": "NDJ"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/chad/information-about-the-country/",
+   "verified_at": null,
+   "note_ru": "МИД РФ: виза в диппредставительстве Чада. По неофициальным данным с 11.05.2026 заявки принимаются только через портал evisa.td — официально подтвердить не удалось, выбран более строгий режим."
+  }
+ },
+ {
+  "iso2": "CG",
+  "hub": {
+   "city_ru": "Браззавиль",
+   "iata": "BZV"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/congo/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Виза в консульском отделе посольства Конго в Москве; e-виза только анонсирована."
+  }
+ },
+ {
+  "iso2": "CD",
+  "hub": {
+   "city_ru": "Киншаса",
+   "iata": "FIH"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/democratic-republic-congo/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Виза в посольстве ДРК в Москве; виза в аэропорту только по официальному приглашению миграционной службы (DGM)."
+  }
+ },
+ {
+  "iso2": "GQ",
+  "hub": {
+   "city_ru": "Малабо",
+   "iata": "SSG"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/equatorial-guinea/information-about-the-country/",
+   "verified_at": null,
+   "note_ru": "МИД РФ: консульская виза (обычно на 30 дней). По неофициальным данным с 2023 г. действует e-виза, но официальный портал и условия подтвердить не удалось — выбран более строгий режим."
+  }
+ },
+ {
+  "iso2": "GA",
+  "hub": {
+   "city_ru": "Либревиль",
+   "iata": "LBV"
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/gabon/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Виза по электронной заявке (evisa.dgdi.ga) либо в посольстве; срок пребывания в источнике не указан."
+  }
+ },
+ {
+  "iso2": "ST",
+  "hub": {
+   "city_ru": "Сан-Томе",
+   "iata": "TMS"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 15,
+   "source_url": "https://www.kdmid.ru/docs/sao-tome-and-principe/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Без визы до 15 суток (односторонне, с 25.04.2017)."
+  }
+ },
+ {
+  "iso2": "AO",
+  "hub": {
+   "city_ru": "Луанда",
+   "iata": "NBJ"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/docs/angola/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Без визы для туризма до 30 дней за поездку, суммарно не более 90 дней в году. Международные рейсы переведены в новый аэропорт им. А. Агостиньо Нето (NBJ)."
+  }
+ }
+]

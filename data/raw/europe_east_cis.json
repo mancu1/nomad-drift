@@ -1,0 +1,268 @@
+[
+ {
+  "iso2": "AL",
+  "hub": {
+   "city_ru": "Тирана",
+   "iata": "TIA"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/albania/information-about-the-country/",
+   "verified_at": null,
+   "note_ru": "КД МИД РФ (на 13.11.2026): требуется виза, сезонный безвиз отменён с 20.04.2023. По неофициальным данным визу оформляют онлайн через e-visa.al, но официальный портал в сессии недоступен (503) — выбран более строгий режим."
+  }
+ },
+ {
+  "iso2": "BA",
+  "hub": {
+   "city_ru": "Сараево",
+   "iata": "SJJ"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Без визы до 30 дней в течение 60 дней (соглашение от 31.05.2013)."
+  }
+ },
+ {
+  "iso2": "BY",
+  "hub": {
+   "city_ru": "Минск",
+   "iata": "MSQ"
+  },
+  "visa": {
+   "regime": "free",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/belarus/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Без визы и миграционной карты, срок пребывания не ограничен (Союзное государство); первые 90 дней без регистрации. Въезд возможен по внутреннему паспорту."
+  }
+ },
+ {
+  "iso2": "MD",
+  "hub": {
+   "city_ru": "Кишинёв",
+   "iata": "RMO"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/docs/moldova/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Без визы по загранпаспорту, до 90 дней в течение 6 месяцев."
+  }
+ },
+ {
+  "iso2": "ME",
+  "hub": {
+   "city_ru": "Подгорица",
+   "iata": "TGD"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/montenegro/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "С 1 ноября 2026 г. Черногория ввела визы для россиян (соглашение 2008 г. прекращено); подача через визовые центры и посольство в Москве."
+  }
+ },
+ {
+  "iso2": "MK",
+  "hub": {
+   "city_ru": "Скопье",
+   "iata": "SKP"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/macedonia/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Безвиз отменён с 15.03.2022; e-visa и визы по прибытии нет. Исключение: ВНЖ ЕС или многократная шенгенская виза C — до 15 дней."
+  }
+ },
+ {
+  "iso2": "RS",
+  "hub": {
+   "city_ru": "Белград",
+   "iata": "BEG"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Без визы до 30 дней (соглашение от 20.02.2009)."
+  }
+ },
+ {
+  "iso2": "UA",
+  "hub": {
+   "city_ru": "Киев",
+   "iata": "KBP"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Для россиян требуется виза (введена Украиной в одностороннем порядке). Гражданское авиасообщение с Украиной закрыто; хаб указан номинально."
+  }
+ },
+ {
+  "iso2": "XK",
+  "hub": {
+   "city_ru": "Приштина",
+   "iata": "PRN"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/current-information/11/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Виза обязательна, выдаётся косовским консульством в Стамбуле (заявка онлайн, но нужен оригинал паспорта). С действующей многократной шенгенской визой — без визы до 15 дней. Сообщение КД МИД РФ от 06.11.2024."
+  }
+ },
+ {
+  "iso2": "TR",
+  "hub": {
+   "city_ru": "Стамбул",
+   "iata": "IST"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 60,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Без визы до 60 дней за въезд (решение Совмина Турции с 16.05.2013), не более 90 дней в течение 180 дней."
+  }
+ },
+ {
+  "iso2": "AM",
+  "hub": {
+   "city_ru": "Ереван",
+   "iata": "EVN"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 180,
+   "source_url": "https://www.kdmid.ru/docs/armenia/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Без визы; до 180 дней в течение года (общее правило МИД Армении для безвизовых стран, mfa.am/ru/visa), первые 30 дней без регистрации. Авиаперелётом можно въехать по внутреннему паспорту."
+  }
+ },
+ {
+  "iso2": "AZ",
+  "hub": {
+   "city_ru": "Баку",
+   "iata": "GYD"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/docs/azerbaijan/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Без визы, не более 90 дней в течение календарного года; при пребывании свыше 15 суток — регистрация."
+  }
+ },
+ {
+  "iso2": "GE",
+  "hub": {
+   "city_ru": "Тбилиси",
+   "iata": "TBS"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 365,
+   "source_url": "https://www.kdmid.ru/docs/georgia/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Без визы до 1 года (односторонний режим Грузии)."
+  }
+ },
+ {
+  "iso2": "KZ",
+  "hub": {
+   "city_ru": "Алма-Ата",
+   "iata": "ALA"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/docs/kazakhstan/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Без визы до 90 дней: 30 дней без регистрации с продлением ещё на 60. Въезд возможен по внутреннему паспорту."
+  }
+ },
+ {
+  "iso2": "KG",
+  "hub": {
+   "city_ru": "Бишкек",
+   "iata":"BSZ"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/docs/kyrgyzstan/information-about-the-country/",
+   "verified_at": null,
+   "note_ru": "Безвизовый режим подтверждён КД МИД РФ (регистрация при пребывании свыше 30 дней, возможен въезд по внутреннему паспорту). Срок 90 дней из 180 без регистрации — по сообщениям СМИ о постановлении Кабмина КР №855 от 31.12.2025, официальным источником не подтверждён."
+  }
+ },
+ {
+  "iso2": "TJ",
+  "hub": {
+   "city_ru": "Душанбе",
+   "iata": "DYU"
+  },
+  "visa": {
+   "regime": "free",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/tajikistan/information-about-the-country/",
+   "verified_at": null,
+   "note_ru": "Безвизовый режим подтверждён КД МИД РФ (по загранпаспорту; регистрация не позднее 3-го рабочего дня при пребывании дольше). Максимальный срок пребывания в официальном источнике не указан; неофициальные источники расходятся (90 дней / без ограничений)."
+  }
+ },
+ {
+  "iso2": "TM",
+  "hub": {
+   "city_ru": "Ашхабад",
+   "iata": "ASB"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/turkmenistan/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "По общегражданским паспортам въезд только по визе (соглашение от 17.07.1999); безвиз до 30 дней лишь для дипломатических и служебных паспортов."
+  }
+ },
+ {
+  "iso2": "UZ",
+  "hub": {
+   "city_ru": "Ташкент",
+   "iata": "TAS"
+  },
+  "visa": {
+   "regime": "free",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/uzbekistan/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Виза не нужна; фиксированного лимита нет — пребывание в пределах срока регистрации (первые 15 дней без регистрации)."
+  }
+ },
+ {
+  "iso2": "MN",
+  "hub": {
+   "city_ru": "Улан-Батор",
+   "iata": "UBN"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Без визы до 30 дней за въезд, но не более 90 дней в течение 180 дней (соглашение от 03.09.2014)."
+  }
+ }
+]

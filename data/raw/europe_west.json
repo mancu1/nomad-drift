@@ -1,0 +1,506 @@
+[
+ {
+  "iso2": "AD",
+  "hub": {
+   "city_ru": "Барселона",
+   "iata": "BCN"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "По соглашению от 05.12.2019 — без визы до 90 дней в течение 365 дней (КД МИД России, 13.11.2026). ВАЖНО: аэропорта нет, попасть можно только через Испанию или Францию, поэтому фактически нужна двукратная/многократная шенгенская виза."
+  }
+ },
+ {
+  "iso2": "AT",
+  "hub": {
+   "city_ru": "Вена",
+   "iata": "VIE"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен."
+  }
+ },
+ {
+  "iso2": "BE",
+  "hub": {
+   "city_ru": "Брюссель",
+   "iata": "BRU"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен."
+  }
+ },
+ {
+  "iso2": "BG",
+  "hub": {
+   "city_ru": "София",
+   "iata": "SOF"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется виза (КД МИД России, 13.11.2026); безвизовый режим действует только для служебных паспортов."
+  }
+ },
+ {
+  "iso2": "HR",
+  "hub": {
+   "city_ru": "Загреб",
+   "iata": "ZAG"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется виза (КД МИД России, 13.11.2026); страна входит в Шенген."
+  }
+ },
+ {
+  "iso2": "CY",
+  "hub": {
+   "city_ru": "Ларнака",
+   "iata": "LCA"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется виза (КД МИД России, 13.11.2026); Кипр не входит в Шенген, оформляется виза Кипра."
+  }
+ },
+ {
+  "iso2": "CZ",
+  "hub": {
+   "city_ru": "Прага",
+   "iata": "PRG"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен. По сообщениям СМИ, страна существенно ограничила выдачу туристических виз и/или въезд россиян — уточняйте в консульстве."
+  }
+ },
+ {
+  "iso2": "DK",
+  "hub": {
+   "city_ru": "Копенгаген",
+   "iata": "CPH"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен."
+  }
+ },
+ {
+  "iso2": "EE",
+  "hub": {
+   "city_ru": "Таллин",
+   "iata": "TLL"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен. По сообщениям СМИ, страна существенно ограничила выдачу туристических виз и/или въезд россиян — уточняйте в консульстве."
+  }
+ },
+ {
+  "iso2": "FI",
+  "hub": {
+   "city_ru": "Хельсинки",
+   "iata": "HEL"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен. По сообщениям СМИ, страна существенно ограничила выдачу туристических виз и/или въезд россиян — уточняйте в консульстве."
+  }
+ },
+ {
+  "iso2": "FR",
+  "hub": {
+   "city_ru": "Париж",
+   "iata": "CDG"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен."
+  }
+ },
+ {
+  "iso2": "DE",
+  "hub": {
+   "city_ru": "Франкфурт-на-Майне",
+   "iata": "FRA"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен."
+  }
+ },
+ {
+  "iso2": "GR",
+  "hub": {
+   "city_ru": "Афины",
+   "iata": "ATH"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен."
+  }
+ },
+ {
+  "iso2": "HU",
+  "hub": {
+   "city_ru": "Будапешт",
+   "iata": "BUD"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется виза (КД МИД России, 13.11.2026); безвизовый режим действует только для служебных паспортов."
+  }
+ },
+ {
+  "iso2": "IS",
+  "hub": {
+   "city_ru": "Рейкьявик",
+   "iata": "KEF"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется шенгенская виза (КД МИД России, 13.11.2026); безвизовый режим только для дипломатических паспортов."
+  }
+ },
+ {
+  "iso2": "IE",
+  "hub": {
+   "city_ru": "Дублин",
+   "iata": "DUB"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется национальная виза Ирландии (КД МИД России, 13.11.2026); шенгенская виза не действует."
+  }
+ },
+ {
+  "iso2": "IT",
+  "hub": {
+   "city_ru": "Рим",
+   "iata": "FCO"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен."
+  }
+ },
+ {
+  "iso2": "LV",
+  "hub": {
+   "city_ru": "Рига",
+   "iata": "RIX"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен. По сообщениям СМИ, страна существенно ограничила выдачу туристических виз и/или въезд россиян — уточняйте в консульстве."
+  }
+ },
+ {
+  "iso2": "LI",
+  "hub": {
+   "city_ru": "Цюрих",
+   "iata": "ZRH"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется шенгенская виза (КД МИД России, 13.11.2026); соглашение об упрощении выдачи виз приостановлено."
+  }
+ },
+ {
+  "iso2": "LT",
+  "hub": {
+   "city_ru": "Вильнюс",
+   "iata": "VNO"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен. По сообщениям СМИ, страна существенно ограничила выдачу туристических виз и/или въезд россиян — уточняйте в консульстве."
+  }
+ },
+ {
+  "iso2": "LU",
+  "hub": {
+   "city_ru": "Люксембург",
+   "iata": "LUX"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен."
+  }
+ },
+ {
+  "iso2": "MT",
+  "hub": {
+   "city_ru": "Валлетта",
+   "iata": "MLA"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен."
+  }
+ },
+ {
+  "iso2": "MC",
+  "hub": {
+   "city_ru": "Ницца",
+   "iata": "NCE"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется виза: въезд возможен при наличии шенгенской визы, выданной третьим государством (КД МИД России, 13.11.2026). Своего аэропорта нет, добираться через Ницца."
+  }
+ },
+ {
+  "iso2": "NL",
+  "hub": {
+   "city_ru": "Амстердам",
+   "iata": "AMS"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен."
+  }
+ },
+ {
+  "iso2": "NO",
+  "hub": {
+   "city_ru": "Осло",
+   "iata": "OSL"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется шенгенская виза (КД МИД России, 13.11.2026); соглашение об упрощении выдачи виз приостановлено."
+  }
+ },
+ {
+  "iso2": "PL",
+  "hub": {
+   "city_ru": "Варшава",
+   "iata": "WAW"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен. По сообщениям СМИ, страна существенно ограничила выдачу туристических виз и/или въезд россиян — уточняйте в консульстве."
+  }
+ },
+ {
+  "iso2": "PT",
+  "hub": {
+   "city_ru": "Лиссабон",
+   "iata": "LIS"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен."
+  }
+ },
+ {
+  "iso2": "RO",
+  "hub": {
+   "city_ru": "Бухарест",
+   "iata": "OTP"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется виза (КД МИД России, 13.11.2026)."
+  }
+ },
+ {
+  "iso2": "SM",
+  "hub": {
+   "city_ru": "Болонья",
+   "iata": "BLQ"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется виза: въезд возможен при наличии шенгенской визы, выданной третьим государством (КД МИД России, 13.11.2026). Своего аэропорта нет, добираться через Болонья/Римини."
+  }
+ },
+ {
+  "iso2": "SK",
+  "hub": {
+   "city_ru": "Братислава",
+   "iata": "BTS"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен."
+  }
+ },
+ {
+  "iso2": "SI",
+  "hub": {
+   "city_ru": "Любляна",
+   "iata": "LJU"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен."
+  }
+ },
+ {
+  "iso2": "ES",
+  "hub": {
+   "city_ru": "Барселона",
+   "iata": "BCN"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен."
+  }
+ },
+ {
+  "iso2": "SE",
+  "hub": {
+   "city_ru": "Стокгольм",
+   "iata": "ARN"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен."
+  }
+ },
+ {
+  "iso2": "CH",
+  "hub": {
+   "city_ru": "Цюрих",
+   "iata": "ZRH"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется шенгенская виза (КД МИД России, 13.11.2026); соглашение об упрощении выдачи виз приостановлено."
+  }
+ },
+ {
+  "iso2": "GB",
+  "hub": {
+   "city_ru": "Лондон",
+   "iata": "LHR"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется виза Великобритании (КД МИД России, 13.11.2026)."
+  }
+ },
+ {
+  "iso2": "VA",
+  "hub": {
+   "city_ru": "Рим",
+   "iata": "FCO"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Требуется виза: въезд возможен при наличии шенгенской визы, выданной третьим государством (КД МИД России, 13.11.2026). Своего аэропорта нет, добираться через Рим."
+  }
+ }
+]

@@ -1,0 +1,3420 @@
+[
+ {
+  "iso2": "AU",
+  "name_ru": "Австралия",
+  "hub": {
+   "city": "Сидней",
+   "iata": "SYD",
+   "lat": -33.9461,
+   "lon": 151.177
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Перечень КД МИД России: требуется виза. По неофициальным данным, заявление на Visitor visa (subclass 600) подаётся онлайн, но требуется сдача биометрии."
+  }
+ },
+ {
+  "iso2": "AT",
+  "name_ru": "Австрия",
+  "hub": {
+   "city": "Вена",
+   "iata": "VIE",
+   "lat": 48.1103,
+   "lon": 16.5697
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен."
+  }
+ },
+ {
+  "iso2": "AZ",
+  "name_ru": "Азербайджан",
+  "hub": {
+   "city": "Баку",
+   "iata": "GYD",
+   "lat": 40.4728,
+   "lon": 50.0509
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/docs/azerbaijan/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "Без визы, не более 90 дней в течение календарного года; при пребывании свыше 15 суток — регистрация."
+  }
+ },
+ {
+  "iso2": "AL",
+  "name_ru": "Албания",
+  "hub": {
+   "city": "Тирана",
+   "iata": "TIA",
+   "lat": 41.4147,
+   "lon": 19.7206
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/albania/information-about-the-country/",
+   "verified_at": null,
+   "note": "КД МИД РФ (на 13.11.2026): требуется виза, сезонный безвиз отменён с 20.04.2023. По неофициальным данным визу оформляют онлайн через e-visa.al, но официальный портал в сессии недоступен (503) — выбран более строгий режим."
+  }
+ },
+ {
+  "iso2": "DZ",
+  "name_ru": "Алжир",
+  "hub": {
+   "city": "Алжир",
+   "iata": "ALG",
+   "lat": 36.6939,
+   "lon": 3.2145
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется виза (перечень МИД РФ на 13.11.2026); безвиз только для дипломатических и служебных паспортов."
+  }
+ },
+ {
+  "iso2": "AO",
+  "name_ru": "Ангола",
+  "hub": {
+   "city": "Луанда",
+   "iata": "NBJ",
+   "lat": -9.0507,
+   "lon": 13.4991
+  },
+  "visa": {
+   "regime": "free",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/docs/angola/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "Без визы для туризма до 30 дней за поездку, суммарно не более 90 дней в году. Международные рейсы переведены в новый аэропорт им. А. Агостиньо Нето (NBJ)."
+  }
+ },
+ {
+  "iso2": "AD",
+  "name_ru": "Андорра",
+  "hub": {
+   "city": "Барселона",
+   "iata": "BCN",
+   "lat": 41.2971,
+   "lon": 2.0785
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Формально безвиз до 90 дней (соглашение 2019 г.), но аэропорта нет: въезд только через Испанию или Францию, нужна шенгенская виза. В приложении считается визовой."
+  }
+ },
+ {
+  "iso2": "AG",
+  "name_ru": "Антигуа и Барбуда",
+  "hub": {
+   "city": "Сент-Джонс",
+   "iata": "ANU",
+   "lat": 17.1367,
+   "lon": -61.7927
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы до 90 дней в течение 180 дней."
+  }
+ },
+ {
+  "iso2": "AR",
+  "name_ru": "Аргентина",
+  "hub": {
+   "city": "Буэнос-Айрес",
+   "iata": "EZE",
+   "lat": -34.8222,
+   "lon": -58.5358
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Перечень КД МИД России (по сост. на 13.11.2026): без визы до 90 дней в течение 180 дней."
+  }
+ },
+ {
+  "iso2": "AM",
+  "name_ru": "Армения",
+  "hub": {
+   "city": "Ереван",
+   "iata": "EVN",
+   "lat": 40.1489,
+   "lon": 44.3979
+  },
+  "visa": {
+   "regime": "free",
+   "days": 180,
+   "source_url": "https://www.kdmid.ru/docs/armenia/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "Без визы; до 180 дней в течение года (общее правило МИД Армении для безвизовых стран, mfa.am/ru/visa), первые 30 дней без регистрации. Авиаперелётом можно въехать по внутреннему паспорту."
+  }
+ },
+ {
+  "iso2": "AF",
+  "name_ru": "Афганистан",
+  "hub": {
+   "city": "Кабул",
+   "iata": "KBL",
+   "lat": 34.5659,
+   "lon": 69.2123
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "По перечню КД МИД России (на 13.11.2026) — требуется виза."
+  }
+ },
+ {
+  "iso2": "BS",
+  "name_ru": "Багамы",
+  "hub": {
+   "city": "Нассау",
+   "iata": "NAS",
+   "lat": 25.039,
+   "lon": -77.4662
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы до 90 дней (в одностороннем порядке)."
+  }
+ },
+ {
+  "iso2": "BD",
+  "name_ru": "Бангладеш",
+  "hub": {
+   "city": "Дакка",
+   "iata": "DAC",
+   "lat": 23.8433,
+   "lon": 90.3978
+  },
+  "visa": {
+   "regime": "voa",
+   "days": 30,
+   "source_url": "https://voa.specialbranch.gov.bd/public/voa-info.html",
+   "verified_at": "2026-11-14",
+   "note": "Виза по прибытии до 30 дней, однократная; Россия в списке стран, имеющих право на VOA (портал Special Branch). По перечню КД МИД — требуется виза (безвиза нет)."
+  }
+ },
+ {
+  "iso2": "BB",
+  "name_ru": "Барбадос",
+  "hub": {
+   "city": "Бриджтаун",
+   "iata": "BGI",
+   "lat": 13.0747,
+   "lon": -59.491
+  },
+  "visa": {
+   "regime": "free",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы (в одностороннем порядке), срок в таблице не указан; официального подтверждения срока не найдено (в неофициальных источниках 28–90 дней)."
+  }
+ },
+ {
+  "iso2": "BH",
+  "name_ru": "Бахрейн",
+  "hub": {
+   "city": "Манама",
+   "iata": "BAH",
+   "lat": 26.2673,
+   "lon": 50.6376
+  },
+  "visa": {
+   "regime": "voa",
+   "days": 14,
+   "source_url": "https://www.kdmid.ru/docs/bahrain/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "Виза по прибытии на 2 недели во всех пунктах въезда, сбор 5 BHD; продление до месяца. В сводном перечне МИД РФ — «требуется виза»."
+  }
+ },
+ {
+  "iso2": "BY",
+  "name_ru": "Беларусь",
+  "hub": {
+   "city": "Минск",
+   "iata": "MSQ",
+   "lat": 53.8881,
+   "lon": 28.04
+  },
+  "visa": {
+   "regime": "free",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/belarus/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "Без визы и миграционной карты, срок пребывания не ограничен (Союзное государство); первые 90 дней без регистрации. Въезд возможен по внутреннему паспорту."
+  }
+ },
+ {
+  "iso2": "BZ",
+  "name_ru": "Белиз",
+  "hub": {
+   "city": "Белиз",
+   "iata": "BZE",
+   "lat": 17.54,
+   "lon": -88.3036
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы до 90 дней в течение 180 дней (соглашение от 23.09.2021)."
+  }
+ },
+ {
+  "iso2": "BE",
+  "name_ru": "Бельгия",
+  "hub": {
+   "city": "Брюссель",
+   "iata": "BRU",
+   "lat": 50.9014,
+   "lon": 4.4844
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен."
+  }
+ },
+ {
+  "iso2": "BJ",
+  "name_ru": "Бенин",
+  "hub": {
+   "city": "Котону",
+   "iata": "COO",
+   "lat": 6.3572,
+   "lon": 2.3843
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/docs/benin/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "Обязательная e-виза (evisa.gouv.bj): 30 дней одно-/многократная или 90 дней многократная."
+  }
+ },
+ {
+  "iso2": "BG",
+  "name_ru": "Болгария",
+  "hub": {
+   "city": "София",
+   "iata": "SOF",
+   "lat": 42.6964,
+   "lon": 23.4177
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется виза (КД МИД России, 13.11.2026); безвизовый режим действует только для служебных паспортов."
+  }
+ },
+ {
+  "iso2": "BO",
+  "name_ru": "Боливия",
+  "hub": {
+   "city": "Санта-Крус-де-ла-Сьерра",
+   "iata": "VVI",
+   "lat": -17.6448,
+   "lon": -63.1354
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Перечень КД МИД России (по сост. на 13.11.2026): без визы до 90 дней в течение 180 дней."
+  }
+ },
+ {
+  "iso2": "BA",
+  "name_ru": "Босния и Герцеговина",
+  "hub": {
+   "city": "Сараево",
+   "iata": "SJJ",
+   "lat": 43.8246,
+   "lon": 18.3315
+  },
+  "visa": {
+   "regime": "free",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Без визы до 30 дней в течение 60 дней (соглашение от 31.05.2013)."
+  }
+ },
+ {
+  "iso2": "BW",
+  "name_ru": "Ботсвана",
+  "hub": {
+   "city": "Габороне",
+   "iata": "GBE",
+   "lat": -24.5552,
+   "lon": 25.9182
+  },
+  "visa": {
+   "regime": "free",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Без визы до 30 дней, но не более 90 дней в течение 180 дней (соглашение от 06.06.2019)."
+  }
+ },
+ {
+  "iso2": "BR",
+  "name_ru": "Бразилия",
+  "hub": {
+   "city": "Форталеза",
+   "iata": "FOR",
+   "lat": -3.7758,
+   "lon": -38.5322
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Перечень КД МИД России (по сост. на 13.11.2026): без визы до 90 дней в течение 180 дней."
+  }
+ },
+ {
+  "iso2": "BN",
+  "name_ru": "Бруней",
+  "hub": {
+   "city": "Бандар-Сери-Бегаван",
+   "iata": "BWN",
+   "lat": 4.9442,
+   "lon": 114.928
+  },
+  "visa": {
+   "regime": "free",
+   "days": 14,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Без визы до 14 дней."
+  }
+ },
+ {
+  "iso2": "BF",
+  "name_ru": "Буркина-Фасо",
+  "hub": {
+   "city": "Уагадугу",
+   "iata": "OUA",
+   "lat": 12.3532,
+   "lon": -1.5124
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/docs/burkina-faso/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "E-виза через систему «evisa Burkina» (с 2022 г.), краткосрочные поездки до 90 дней."
+  }
+ },
+ {
+  "iso2": "BI",
+  "name_ru": "Бурунди",
+  "hub": {
+   "city": "Бужумбура",
+   "iata": "BJM",
+   "lat": -3.324,
+   "lon": 29.3185
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/burundi/information-about-the-country/",
+   "verified_at": null,
+   "note": "По данным КД МИД РФ визу нужно оформить заранее в посольстве Бурунди в Москве; на практике визу иногда выдают на границе (сторонние сайты называют визу по прилёте стандартной), но официально это не гарантировано. Источники расходятся."
+  }
+ },
+ {
+  "iso2": "BT",
+  "name_ru": "Бутан",
+  "hub": {
+   "city": "Паро",
+   "iata": "PBH",
+   "lat": 27.4032,
+   "lon": 89.4246
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": null,
+   "source_url": "https://bhutan.travel/visa",
+   "verified_at": null,
+   "note": "Виза оформляется онлайн до поездки (immi.gov.bt), сбор 40 USD + SDF 100 USD/сутки. Максимальный срок пребывания в официальном источнике не найден, поэтому запись не подтверждена полностью."
+  }
+ },
+ {
+  "iso2": "VU",
+  "name_ru": "Вануату",
+  "hub": {
+   "city": "Порт-Вила",
+   "iata": "VLI",
+   "lat": -17.6993,
+   "lon": 168.32
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Перечень КД МИД России: без визы до 90 дней (соглашение от 20.09.2016)."
+  }
+ },
+ {
+  "iso2": "VA",
+  "name_ru": "Ватикан",
+  "hub": {
+   "city": "Рим",
+   "iata": "FCO",
+   "lat": 41.8045,
+   "lon": 12.252
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется виза: въезд возможен при наличии шенгенской визы, выданной третьим государством (КД МИД России, 13.11.2026). Своего аэропорта нет, добираться через Рим."
+  }
+ },
+ {
+  "iso2": "GB",
+  "name_ru": "Великобритания",
+  "hub": {
+   "city": "Лондон",
+   "iata": "LHR",
+   "lat": 51.4707,
+   "lon": -0.4599
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется виза Великобритании (КД МИД России, 13.11.2026)."
+  }
+ },
+ {
+  "iso2": "HU",
+  "name_ru": "Венгрия",
+  "hub": {
+   "city": "Будапешт",
+   "iata": "BUD",
+   "lat": 47.4302,
+   "lon": 19.2624
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется виза (КД МИД России, 13.11.2026); безвизовый режим действует только для служебных паспортов."
+  }
+ },
+ {
+  "iso2": "VE",
+  "name_ru": "Венесуэла",
+  "hub": {
+   "city": "Каракас",
+   "iata": "CCS",
+   "lat": 10.6022,
+   "lon": -66.9912
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Перечень КД МИД России (по сост. на 13.11.2026): без визы до 90 дней в течение 180 дней."
+  }
+ },
+ {
+  "iso2": "TL",
+  "name_ru": "Восточный Тимор",
+  "hub": {
+   "city": "Дили",
+   "iata": "DIL",
+   "lat": -8.5466,
+   "lon": 125.5245
+  },
+  "visa": {
+   "regime": "voa",
+   "days": 30,
+   "source_url": "https://migracao.gov.tl/wp/tourist-visa/",
+   "verified_at": "2026-11-14",
+   "note": "Туристическая виза по прибытии: до 30 дней, однократная, 30 USD наличными."
+  }
+ },
+ {
+  "iso2": "VN",
+  "name_ru": "Вьетнам",
+  "hub": {
+   "city": "Хошимин",
+   "iata": "SGN",
+   "lat": 10.8188,
+   "lon": 106.652
+  },
+  "visa": {
+   "regime": "free",
+   "days": 45,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Без визы до 45 дней (в одностороннем порядке)."
+  }
+ },
+ {
+  "iso2": "GA",
+  "name_ru": "Габон",
+  "hub": {
+   "city": "Либревиль",
+   "iata": "LBV",
+   "lat": 0.459,
+   "lon": 9.4121
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/gabon/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "Виза по электронной заявке (evisa.dgdi.ga) либо в посольстве; срок пребывания в источнике не указан."
+  }
+ },
+ {
+  "iso2": "HT",
+  "name_ru": "Гаити",
+  "hub": {
+   "city": "Порт-о-Пренс",
+   "iata": "PAP",
+   "lat": 18.58,
+   "lon": -72.2926
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": null,
+   "note": "Источники расходятся: в таблице КД МИД России (13.11.2026) для общегражданских паспортов указано «требуется виза», неофициальные агрегаторы сообщают о безвизовом въезде до 90 дней. Выбран более строгий вариант."
+  }
+ },
+ {
+  "iso2": "GY",
+  "name_ru": "Гайана",
+  "hub": {
+   "city": "Джорджтаун",
+   "iata": "GEO",
+   "lat": 6.4985,
+   "lon": -58.2541
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Перечень КД МИД России (по сост. на 13.11.2026): без визы до 90 дней в течение 180 дней."
+  }
+ },
+ {
+  "iso2": "GM",
+  "name_ru": "Гамбия",
+  "hub": {
+   "city": "Банжул",
+   "iata": "BJL",
+   "lat": 13.338,
+   "lon": -16.6522
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/gambia/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "По данным МИД РФ визы оформляются в посольстве Гамбии (Москва, Дакар). Сторонние сайты противоречивы (часть пишет о безвизе) — официально не подтверждено."
+  }
+ },
+ {
+  "iso2": "GH",
+  "name_ru": "Гана",
+  "hub": {
+   "city": "Аккра",
+   "iata": "ACC",
+   "lat": 5.6052,
+   "lon": -0.1668
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/ghana/information-about-the-country/",
+   "verified_at": null,
+   "note": "МИД РФ: виза в посольстве Ганы в Москве. 25.05.2026 Гана запустила портал e-визы (mfa.gov.gh), но доступность для россиян и срок пребывания подтвердить не удалось — выбран более строгий режим."
+  }
+ },
+ {
+  "iso2": "GT",
+  "name_ru": "Гватемала",
+  "hub": {
+   "city": "Гватемала",
+   "iata": "GUA",
+   "lat": 14.5829,
+   "lon": -90.5275
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы до 90 дней в течение 180 дней."
+  }
+ },
+ {
+  "iso2": "GN",
+  "name_ru": "Гвинея",
+  "hub": {
+   "city": "Конакри",
+   "iata": "CKY",
+   "lat": 9.5769,
+   "lon": -13.612
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/docs/guinea/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "E-виза (paf.gov.gn), однократная на 90 суток."
+  }
+ },
+ {
+  "iso2": "GW",
+  "name_ru": "Гвинея-Бисау",
+  "hub": {
+   "city": "Бисау",
+   "iata": "OXB",
+   "lat": 11.8943,
+   "lon": -15.6536
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/guinea-bissau/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "Нужна виза; МИД РФ рекомендует оформлять заранее в посольстве Гвинеи-Бисау в Москве (обычно на 1–3 месяца)."
+  }
+ },
+ {
+  "iso2": "DE",
+  "name_ru": "Германия",
+  "hub": {
+   "city": "Франкфурт-на-Майне",
+   "iata": "FRA",
+   "lat": 50.0267,
+   "lon": 8.5584
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен."
+  }
+ },
+ {
+  "iso2": "HN",
+  "name_ru": "Гондурас",
+  "hub": {
+   "city": "Сан-Педро-Сула",
+   "iata": "SAP",
+   "lat": 15.4526,
+   "lon": -87.9236
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы до 90 дней в течение 180 дней."
+  }
+ },
+ {
+  "iso2": "HK",
+  "name_ru": "Гонконг",
+  "hub": {
+   "city": "Гонконг",
+   "iata": "HKG",
+   "lat": 22.3118,
+   "lon": 113.9149
+  },
+  "visa": {
+   "regime": "free",
+   "days": 14,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Без визы до 14 дней."
+  }
+ },
+ {
+  "iso2": "GD",
+  "name_ru": "Гренада",
+  "hub": {
+   "city": "Сент-Джорджес",
+   "iata": "GND",
+   "lat": 12.004,
+   "lon": -61.7853
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы до 90 дней в течение 180 дней."
+  }
+ },
+ {
+  "iso2": "GR",
+  "name_ru": "Греция",
+  "hub": {
+   "city": "Афины",
+   "iata": "ATH",
+   "lat": 37.9364,
+   "lon": 23.9445
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен."
+  }
+ },
+ {
+  "iso2": "GE",
+  "name_ru": "Грузия",
+  "hub": {
+   "city": "Тбилиси",
+   "iata": "TBS",
+   "lat": 41.6692,
+   "lon": 44.9547
+  },
+  "visa": {
+   "regime": "free",
+   "days": 365,
+   "source_url": "https://www.kdmid.ru/docs/georgia/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "Без визы до 1 года (односторонний режим Грузии)."
+  }
+ },
+ {
+  "iso2": "DK",
+  "name_ru": "Дания",
+  "hub": {
+   "city": "Копенгаген",
+   "iata": "CPH",
+   "lat": 55.6179,
+   "lon": 12.656
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен."
+  }
+ },
+ {
+  "iso2": "DJ",
+  "name_ru": "Джибути",
+  "hub": {
+   "city": "Джибути",
+   "iata": "JIB",
+   "lat": 11.5473,
+   "lon": 43.1595
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/djibouti/information-about-the-country/",
+   "verified_at": null,
+   "note": "Электронная виза (evisa.gouv.dj, около 23 долл.); виза по прилёте в общегражданский паспорт не выдаётся. Срок пребывания по официальным источникам подтвердить не удалось."
+  }
+ },
+ {
+  "iso2": "DM",
+  "name_ru": "Доминика",
+  "hub": {
+   "city": "Розо",
+   "iata": "DOM",
+   "lat": 15.5467,
+   "lon": -61.3011
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы до 90 дней в течение 180 дней."
+  }
+ },
+ {
+  "iso2": "DO",
+  "name_ru": "Доминикана",
+  "hub": {
+   "city": "Пунта-Кана",
+   "iata": "PUJ",
+   "lat": 18.5671,
+   "lon": -68.3646
+  },
+  "visa": {
+   "regime": "free",
+   "days": 60,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы до 60 дней в течение 180 дней (соглашение от 26.11.2018)."
+  }
+ },
+ {
+  "iso2": "CD",
+  "name_ru": "ДР Конго",
+  "hub": {
+   "city": "Киншаса",
+   "iata": "FIH",
+   "lat": -4.3857,
+   "lon": 15.4446
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/democratic-republic-congo/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "Виза в посольстве ДРК в Москве; виза в аэропорту только по официальному приглашению миграционной службы (DGM)."
+  }
+ },
+ {
+  "iso2": "EG",
+  "name_ru": "Египет",
+  "hub": {
+   "city": "Каир",
+   "iata": "CAI",
+   "lat": 30.1115,
+   "lon": 31.3967
+  },
+  "visa": {
+   "regime": "voa",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/docs/egypt/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "Виза по прибытии в аэропорту (36 USD) или онлайн на visaonarrival.gov.eg, срок 1 месяц; при прилёте в Шарм-эш-Шейх — бесплатный синайский штамп на 15 дней (только Южный Синай)."
+  }
+ },
+ {
+  "iso2": "ZM",
+  "name_ru": "Замбия",
+  "hub": {
+   "city": "Лусака",
+   "iata": "LUN",
+   "lat": -15.3308,
+   "lon": 28.4527
+  },
+  "visa": {
+   "regime": "voa",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/zambia/information-about-the-country/",
+   "verified_at": null,
+   "note": "По данным КД МИД РФ визы выдаются в посольстве, на погранпереходах, в международных аэропортах и онлайн; срок пребывания не указан. Сторонние сайты расходятся (безвиз 90 дней / виза по прилёте / e-visa); соглашение о безвизе с РФ было на согласовании."
+  }
+ },
+ {
+  "iso2": "ZW",
+  "name_ru": "Зимбабве",
+  "hub": {
+   "city": "Хараре",
+   "iata": "HRE",
+   "lat": -17.9318,
+   "lon": 31.0928
+  },
+  "visa": {
+   "regime": "voa",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/docs/zimbabwe/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "Разовая виза на границе, 30 долл.; 30 дней с продлением до 90."
+  }
+ },
+ {
+  "iso2": "IL",
+  "name_ru": "Израиль",
+  "hub": {
+   "city": "Тель-Авив",
+   "iata": "TLV",
+   "lat": 32.0114,
+   "lon": 34.8867
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/docs/israel/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "Без визы до 90 дней в течение 180, но обязательно заранее оформить электронное разрешение ETA-IL (не позднее чем за 72 ч, 25 шекелей)."
+  }
+ },
+ {
+  "iso2": "IN",
+  "name_ru": "Индия",
+  "hub": {
+   "city": "Мумбаи",
+   "iata": "BOM",
+   "lat": 19.0887,
+   "lon": 72.8679
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 30,
+   "source_url": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+   "verified_at": "2026-11-14",
+   "note": "Россия в списке e-Visa. Электронная туристическая виза на 30 дней (есть также на 1 год и 5 лет)."
+  }
+ },
+ {
+  "iso2": "ID",
+  "name_ru": "Индонезия",
+  "hub": {
+   "city": "Джакарта",
+   "iata": "CGK",
+   "lat": -6.1256,
+   "lon": 106.656
+  },
+  "visa": {
+   "regime": "voa",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/docs/indonesia/information-about-the-country/",
+   "verified_at": null,
+   "note": "Источники расходятся: в перечне КД МИД России — без визы до 30 дней (односторонне), на страновой странице КД МИД — безвиз временно не действует, доступна виза по прибытии; по вторичным данным VOA/e-VOA 30 дней (500 000 рупий). Официальный портал иммиграции открыть не удалось. Выбран более строгий вариант."
+  }
+ },
+ {
+  "iso2": "JO",
+  "name_ru": "Иордания",
+  "hub": {
+   "city": "Амман",
+   "iata": "AMM",
+   "lat": 31.7226,
+   "lon": 35.9932
+  },
+  "visa": {
+   "regime": "free",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Без визы до 30 дней за поездку, суммарно не более 90 дней в календарном году (соглашение от 20.08.2025)."
+  }
+ },
+ {
+  "iso2": "IQ",
+  "name_ru": "Ирак",
+  "hub": {
+   "city": "Багдад",
+   "iata": "BGW",
+   "lat": 33.2625,
+   "lon": 44.2346
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 30,
+   "source_url": "https://evisa.iq/en",
+   "verified_at": null,
+   "note": "МИД РФ: требуется виза. Официальный портал evisa.iq выдаёт e-visa на 30 дней, но допуск именно граждан РФ и отмену визы по прибытии по официальным источникам подтвердить не удалось (агрегаторы расходятся)."
+  }
+ },
+ {
+  "iso2": "IR",
+  "name_ru": "Иран",
+  "hub": {
+   "city": "Тегеран",
+   "iata": "IKA",
+   "lat": 35.4161,
+   "lon": 51.1522
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": null,
+   "note": "Источники расходятся. Перечень МИД РФ: требуется виза, без визы только организованные тургруппы (до 15 суток). Страница МИД РФ по Ирану: электронное разрешение на e_visa.mfa.ir с получением визы в консульстве или аэропорту. По неофициальным данным (2025), самостоятельная подача для россиян закрыта, только через турфирмы. Выбран более строгий вариант."
+  }
+ },
+ {
+  "iso2": "IE",
+  "name_ru": "Ирландия",
+  "hub": {
+   "city": "Дублин",
+   "iata": "DUB",
+   "lat": 53.4287,
+   "lon": -6.2621
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется национальная виза Ирландии (КД МИД России, 13.11.2026); шенгенская виза не действует."
+  }
+ },
+ {
+  "iso2": "IS",
+  "name_ru": "Исландия",
+  "hub": {
+   "city": "Рейкьявик",
+   "iata": "KEF",
+   "lat": 63.985,
+   "lon": -22.6056
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется шенгенская виза (КД МИД России, 13.11.2026); безвизовый режим только для дипломатических паспортов."
+  }
+ },
+ {
+  "iso2": "ES",
+  "name_ru": "Испания",
+  "hub": {
+   "city": "Барселона",
+   "iata": "BCN",
+   "lat": 41.2971,
+   "lon": 2.0785
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен."
+  }
+ },
+ {
+  "iso2": "IT",
+  "name_ru": "Италия",
+  "hub": {
+   "city": "Рим",
+   "iata": "FCO",
+   "lat": 41.8045,
+   "lon": 12.252
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен."
+  }
+ },
+ {
+  "iso2": "YE",
+  "name_ru": "Йемен",
+  "hub": {
+   "city": "Аден",
+   "iata": "ADE",
+   "lat": 12.8296,
+   "lon": 45.03
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется виза (перечень МИД РФ на 13.11.2026)."
+  }
+ },
+ {
+  "iso2": "CV",
+  "name_ru": "Кабо-Верде",
+  "hub": {
+   "city": "Сал",
+   "iata": "SID",
+   "lat": 16.7414,
+   "lon": -22.9494
+  },
+  "visa": {
+   "regime": "free",
+   "days": 60,
+   "source_url": "https://www.kdmid.ru/docs/cape-verde/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "Без визы по соглашению 2019 г.: до 60 дней за поездку, суммарно 90 дней за 12 месяцев. Возможны онлайн-предрегистрация и аэропортовый сбор — в источнике МИД не упомянуты."
+  }
+ },
+ {
+  "iso2": "KZ",
+  "name_ru": "Казахстан",
+  "hub": {
+   "city": "Алма-Ата",
+   "iata": "ALA",
+   "lat": 43.3543,
+   "lon": 77.0428
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/docs/kazakhstan/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "Без визы до 90 дней: 30 дней без регистрации с продлением ещё на 60. Въезд возможен по внутреннему паспорту."
+  }
+ },
+ {
+  "iso2": "KH",
+  "name_ru": "Камбоджа",
+  "hub": {
+   "city": "Пномпень",
+   "iata": "KTI",
+   "lat": 11.36,
+   "lon": 104.9213
+  },
+  "visa": {
+   "regime": "voa",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/docs/cambodia/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "Туристическая виза по прибытии (30 USD) на месяц, либо e-visa на evisa.gov.kh; перед прилётом заполняется бесплатная форма e-Arrival."
+  }
+ },
+ {
+  "iso2": "CM",
+  "name_ru": "Камерун",
+  "hub": {
+   "city": "Дуала",
+   "iata": "DLA",
+   "lat": 4.0061,
+   "lon": 9.7195
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/cameroon/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "С 2023 г. система eVisa (evisacam.cm), либо посольство в Москве; срок пребывания в источнике не указан."
+  }
+ },
+ {
+  "iso2": "CA",
+  "name_ru": "Канада",
+  "hub": {
+   "city": "Торонто",
+   "iata": "YYZ",
+   "lat": 43.6759,
+   "lon": -79.6294
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): требуется виза."
+  }
+ },
+ {
+  "iso2": "QA",
+  "name_ru": "Катар",
+  "hub": {
+   "city": "Доха",
+   "iata": "DOH",
+   "lat": 25.2731,
+   "lon": 51.6081
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Без визы до 90 дней в течение 180 дней (соглашение от 27.12.2019)."
+  }
+ },
+ {
+  "iso2": "KE",
+  "name_ru": "Кения",
+  "hub": {
+   "city": "Найроби",
+   "iata": "NBO",
+   "lat": -1.3189,
+   "lon": 36.9282
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/docs/kenya/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "Обязательное электронное разрешение eTA (etakenya.go.ke), подавать не позднее чем за 72 часа, 35 долл.; с 05.10.2026 обязателен медицинский полис (около 45 долл.). Предельный срок пребывания 90 дней."
+  }
+ },
+ {
+  "iso2": "CY",
+  "name_ru": "Кипр",
+  "hub": {
+   "city": "Ларнака",
+   "iata": "LCA",
+   "lat": 34.8751,
+   "lon": 33.6249
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется виза (КД МИД России, 13.11.2026); Кипр не входит в Шенген, оформляется виза Кипра."
+  }
+ },
+ {
+  "iso2": "KG",
+  "name_ru": "Киргизия",
+  "hub": {
+   "city": "Бишкек",
+   "iata": "BSZ",
+   "lat": 43.0613,
+   "lon": 74.4776
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/docs/kyrgyzstan/information-about-the-country/",
+   "verified_at": null,
+   "note": "Безвизовый режим подтверждён КД МИД РФ (регистрация при пребывании свыше 30 дней, возможен въезд по внутреннему паспорту). Срок 90 дней из 180 без регистрации — по сообщениям СМИ о постановлении Кабмина КР №855 от 31.12.2025, официальным источником не подтверждён."
+  }
+ },
+ {
+  "iso2": "KI",
+  "name_ru": "Кирибати",
+  "hub": {
+   "city": "Тарава",
+   "iata": "TRW",
+   "lat": 1.3816,
+   "lon": 173.147
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": null,
+   "note": "Источники расходятся: перечень КД МИД России (13.11.2026) — требуется виза; неофициальные источники сообщают о безвизовом въезде для россиян с 01.09.2023 (30–90 дней). Официального подтверждения Кирибати не найдено; выбран более строгий вариант."
+  }
+ },
+ {
+  "iso2": "CN",
+  "name_ru": "КНР (Китайская Народная Республика)",
+  "hub": {
+   "city": "Шанхай",
+   "iata": "PVG",
+   "lat": 31.1434,
+   "lon": 121.805
+  },
+  "visa": {
+   "regime": "free",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Безвиз до 30 дней в одностороннем порядке (туризм, деловые цели). В перечне КД МИД срок действия указан до 14.09.2026; по сообщениям МИД КНР (май 2026) продлён до 31.12.2027."
+  }
+ },
+ {
+  "iso2": "CO",
+  "name_ru": "Колумбия",
+  "hub": {
+   "city": "Богота",
+   "iata": "BOG",
+   "lat": 4.7016,
+   "lon": -74.1469
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Перечень КД МИД России (по сост. на 13.11.2026): без визы до 90 дней в течение 180 дней."
+  }
+ },
+ {
+  "iso2": "KM",
+  "name_ru": "Коморы",
+  "hub": {
+   "city": "Морони",
+   "iata": "HAH",
+   "lat": -11.5337,
+   "lon": 43.2719
+  },
+  "visa": {
+   "regime": "voa",
+   "days": 45,
+   "source_url": "https://www.kdmid.ru/docs/comoros/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "Однократная виза на 45 дней выдаётся в аэропорту (около 60 евро); нужны обратный билет и бронь отеля."
+  }
+ },
+ {
+  "iso2": "XK",
+  "name_ru": "Косово",
+  "hub": {
+   "city": "Приштина",
+   "iata": "PRN",
+   "lat": 42.5728,
+   "lon": 21.0358
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/current-information/11/",
+   "verified_at": "2026-11-14",
+   "note": "Виза обязательна, выдаётся косовским консульством в Стамбуле (заявка онлайн, но нужен оригинал паспорта). С действующей многократной шенгенской визой — без визы до 15 дней. Сообщение КД МИД РФ от 06.11.2024."
+  }
+ },
+ {
+  "iso2": "CR",
+  "name_ru": "Коста-Рика",
+  "hub": {
+   "city": "Сан-Хосе",
+   "iata": "SJO",
+   "lat": 9.9939,
+   "lon": -84.2088
+  },
+  "visa": {
+   "regime": "free",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): по соглашению 2018 г. без визы до 90 дней, но в сноске МИД: фактически до 30 дней с возможностью формального продления до 90 дней."
+  }
+ },
+ {
+  "iso2": "CI",
+  "name_ru": "Кот-д’Ивуар",
+  "hub": {
+   "city": "Абиджан",
+   "iata": "ABJ",
+   "lat": 5.2614,
+   "lon": -3.9263
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/docs/cote-d-ivoire/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "E-виза через snedai.com (предварительная онлайн-заявка), срок действия 90 дней."
+  }
+ },
+ {
+  "iso2": "CU",
+  "name_ru": "Куба",
+  "hub": {
+   "city": "Гавана",
+   "iata": "HAV",
+   "lat": 22.9892,
+   "lon": -82.4091
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы до 90 суток в течение 180 дней."
+  }
+ },
+ {
+  "iso2": "KW",
+  "name_ru": "Кувейт",
+  "hub": {
+   "city": "Эль-Кувейт",
+   "iata": "KWI",
+   "lat": 29.2245,
+   "lon": 47.9698
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется виза (перечень МИД РФ на 13.11.2026); по странице МИД РФ — через консульство и приглашение спонсора, онлайн-заявка только при наличии многократной визы стран ССАГПЗ."
+  }
+ },
+ {
+  "iso2": "LA",
+  "name_ru": "Лаос",
+  "hub": {
+   "city": "Вьентьян",
+   "iata": "VTE",
+   "lat": 17.9851,
+   "lon": 102.5667
+  },
+  "visa": {
+   "regime": "free",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Без визы до 30 дней."
+  }
+ },
+ {
+  "iso2": "LV",
+  "name_ru": "Латвия",
+  "hub": {
+   "city": "Рига",
+   "iata": "RIX",
+   "lat": 56.9208,
+   "lon": 23.9707
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен. По сообщениям СМИ, страна существенно ограничила выдачу туристических виз и/или въезд россиян — уточняйте в консульстве."
+  }
+ },
+ {
+  "iso2": "LS",
+  "name_ru": "Лесото",
+  "hub": {
+   "city": "Масеру",
+   "iata": "MSU",
+   "lat": -29.4563,
+   "lon": 27.5545
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/lesotho/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "Виза оформляется заранее в посольствах Лесото (в т.ч. в Претории); электронные визы отменены с 2023 г., на границе визы не выдаются."
+  }
+ },
+ {
+  "iso2": "LR",
+  "name_ru": "Либерия",
+  "hub": {
+   "city": "Монровия",
+   "iata": "ROB",
+   "lat": 6.2338,
+   "lon": -10.3623
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/liberia/information-about-the-country/",
+   "verified_at": null,
+   "note": "МИД РФ: визовый режим, визы в посольствах Либерии (в России посольства нет). По неофициальным данным с 2025 г. действует онлайн e-Visa on Arrival (visaonarrival.lis.gov.lr, до 30 дней) — для россиян не подтверждено, выбран более строгий режим."
+  }
+ },
+ {
+  "iso2": "LB",
+  "name_ru": "Ливан",
+  "hub": {
+   "city": "Бейрут",
+   "iata": "BEY",
+   "lat": 33.8198,
+   "lon": 35.4874
+  },
+  "visa": {
+   "regime": "voa",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/docs/lebanon/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "Виза по прибытии до 1 месяца; в аэропорту Бейрута ставится бесплатно. В сводном перечне МИД РФ — «требуется виза»."
+  }
+ },
+ {
+  "iso2": "LY",
+  "name_ru": "Ливия",
+  "hub": {
+   "city": "Триполи",
+   "iata": "MJI",
+   "lat": 32.8918,
+   "lon": 13.2879
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется виза (перечень МИД РФ на 13.11.2026)."
+  }
+ },
+ {
+  "iso2": "LT",
+  "name_ru": "Литва",
+  "hub": {
+   "city": "Вильнюс",
+   "iata": "VNO",
+   "lat": 54.6341,
+   "lon": 25.2858
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен. По сообщениям СМИ, страна существенно ограничила выдачу туристических виз и/или въезд россиян — уточняйте в консульстве."
+  }
+ },
+ {
+  "iso2": "LI",
+  "name_ru": "Лихтенштейн",
+  "hub": {
+   "city": "Цюрих",
+   "iata": "ZRH",
+   "lat": 47.4581,
+   "lon": 8.5481
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется шенгенская виза (КД МИД России, 13.11.2026); соглашение об упрощении выдачи виз приостановлено."
+  }
+ },
+ {
+  "iso2": "LU",
+  "name_ru": "Люксембург",
+  "hub": {
+   "city": "Люксембург",
+   "iata": "LUX",
+   "lat": 49.6268,
+   "lon": 6.2121
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен."
+  }
+ },
+ {
+  "iso2": "MU",
+  "name_ru": "Маврикий",
+  "hub": {
+   "city": "Маврикий",
+   "iata": "MRU",
+   "lat": -20.4302,
+   "lon": 57.6836
+  },
+  "visa": {
+   "regime": "free",
+   "days": 60,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Без визы до 60 дней, но не более 90 дней в течение 180 дней (соглашение от 23.12.2015)."
+  }
+ },
+ {
+  "iso2": "MR",
+  "name_ru": "Мавритания",
+  "hub": {
+   "city": "Нуакшот",
+   "iata": "NKC",
+   "lat": 18.31,
+   "lon": -15.9697
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/docs/mauritania/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "Обязательная e-виза (anrpts.gov.mr); срок действия визы 30/90/360/720 дней, указан минимальный вариант."
+  }
+ },
+ {
+  "iso2": "MG",
+  "name_ru": "Мадагаскар",
+  "hub": {
+   "city": "Антананариву",
+   "iata": "TNR",
+   "lat": -18.7969,
+   "lon": 47.4788
+  },
+  "visa": {
+   "regime": "voa",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/madagascar/information-about-the-country/",
+   "verified_at": null,
+   "note": "Виза выдаётся по прилёте в международных аэропортах (сбор наличными); срок пребывания по официальным источникам подтвердить не удалось (сторонние сайты: варианты 15/30/60 дней)."
+  }
+ },
+ {
+  "iso2": "MO",
+  "name_ru": "Макао",
+  "hub": {
+   "city": "Макао",
+   "iata": "MFM",
+   "lat": 22.1496,
+   "lon": 113.592
+  },
+  "visa": {
+   "regime": "free",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Без визы до 30 дней."
+  }
+ },
+ {
+  "iso2": "MW",
+  "name_ru": "Малави",
+  "hub": {
+   "city": "Лилонгве",
+   "iata": "LLW",
+   "lat": -13.7894,
+   "lon": 33.781
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/docs/malawi/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "Электронная виза заранее (evisa.gov.mw), 50 долл., рассмотрение 10–14 дней; 30 дней с продлением до 90."
+  }
+ },
+ {
+  "iso2": "MY",
+  "name_ru": "Малайзия",
+  "hub": {
+   "city": "Куала-Лумпур",
+   "iata": "KUL",
+   "lat": 2.7456,
+   "lon": 101.71
+  },
+  "visa": {
+   "regime": "free",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Без визы до 30 дней (в одностороннем порядке)."
+  }
+ },
+ {
+  "iso2": "ML",
+  "name_ru": "Мали",
+  "hub": {
+   "city": "Бамако",
+   "iata": "BKO",
+   "lat": 12.5335,
+   "lon": -7.9499
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/mali/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "Виза в посольстве Мали; получение визы в аэропорту Бамако невозможно."
+  }
+ },
+ {
+  "iso2": "MV",
+  "name_ru": "Мальдивы",
+  "hub": {
+   "city": "Мале",
+   "iata": "MLE",
+   "lat": 4.1918,
+   "lon": 73.5291
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "По перечню КД МИД России — без визы до 90 дней. Перед прилётом заполняется бесплатная онлайн-декларация IMUGA."
+  }
+ },
+ {
+  "iso2": "MT",
+  "name_ru": "Мальта",
+  "hub": {
+   "city": "Валлетта",
+   "iata": "MLA",
+   "lat": 35.8459,
+   "lon": 14.4915
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен."
+  }
+ },
+ {
+  "iso2": "MA",
+  "name_ru": "Марокко",
+  "hub": {
+   "city": "Касабланка",
+   "iata": "CMN",
+   "lat": 33.3675,
+   "lon": -7.59
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Без визы до 90 дней (в одностороннем порядке)."
+  }
+ },
+ {
+  "iso2": "MH",
+  "name_ru": "Маршалловы Острова",
+  "hub": {
+   "city": "Маджуро",
+   "iata": "MAJ",
+   "lat": 7.0651,
+   "lon": 171.2717
+  },
+  "visa": {
+   "regime": "free",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Перечень КД МИД России: для российских граждан без визы до 30 дней (в одностороннем порядке)."
+  }
+ },
+ {
+  "iso2": "MX",
+  "name_ru": "Мексика",
+  "hub": {
+   "city": "Канкун",
+   "iata": "CUN",
+   "lat": 21.0408,
+   "lon": -86.8735
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 180,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы до 180 дней посредством системы электронных разрешений (SAE), которое нужно получить онлайн до поездки; по данным СМИ, разрешение бесплатное, однократное, только для прилёта авиарейсом; фактический срок определяет офицер на границе."
+  }
+ },
+ {
+  "iso2": "FM",
+  "name_ru": "Микронезия",
+  "hub": {
+   "city": "Понпеи",
+   "iata": "PNI",
+   "lat": 6.9851,
+   "lon": 158.2099
+  },
+  "visa": {
+   "regime": "free",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Перечень КД МИД России: для российских граждан без визы до 30 дней (в одностороннем порядке)."
+  }
+ },
+ {
+  "iso2": "MZ",
+  "name_ru": "Мозамбик",
+  "hub": {
+   "city": "Мапуту",
+   "iata": "MPM",
+   "lat": -25.9208,
+   "lon": 32.5726
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 30,
+   "source_url": "https://evisa.gov.mz/",
+   "verified_at": "2026-11-14",
+   "note": "Визы не требуется, но обязательна предварительная онлайн-регистрация (eTA) на evisa.gov.mz не менее чем за 48 часов до въезда, сбор около 10 долл.; до 30 дней."
+  }
+ },
+ {
+  "iso2": "MD",
+  "name_ru": "Молдавия",
+  "hub": {
+   "city": "Кишинёв",
+   "iata": "RMO",
+   "lat": 46.9277,
+   "lon": 28.9317
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/docs/moldova/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "Без визы по загранпаспорту, до 90 дней в течение 6 месяцев."
+  }
+ },
+ {
+  "iso2": "MC",
+  "name_ru": "Монако",
+  "hub": {
+   "city": "Ницца",
+   "iata": "NCE",
+   "lat": 43.6584,
+   "lon": 7.2159
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется виза: въезд возможен при наличии шенгенской визы, выданной третьим государством (КД МИД России, 13.11.2026). Своего аэропорта нет, добираться через Ницца."
+  }
+ },
+ {
+  "iso2": "MN",
+  "name_ru": "Монголия",
+  "hub": {
+   "city": "Улан-Батор",
+   "iata": "UBN",
+   "lat": 47.6469,
+   "lon": 106.8198
+  },
+  "visa": {
+   "regime": "free",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Без визы до 30 дней за въезд, но не более 90 дней в течение 180 дней (соглашение от 03.09.2014)."
+  }
+ },
+ {
+  "iso2": "MM",
+  "name_ru": "Мьянма",
+  "hub": {
+   "city": "Янгон",
+   "iata": "RGN",
+   "lat": 16.9073,
+   "lon": 96.1332
+  },
+  "visa": {
+   "regime": "free",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Без визы до 30 дней за поездку, суммарно не более 90 дней в календарном году (соглашение действует с 27.01.2026)."
+  }
+ },
+ {
+  "iso2": "NA",
+  "name_ru": "Намибия",
+  "hub": {
+   "city": "Виндхук",
+   "iata": "WDH",
+   "lat": -22.4799,
+   "lon": 17.4709
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Без визы до 90 дней в течение 180 дней (соглашение от 14.04.2021)."
+  }
+ },
+ {
+  "iso2": "NR",
+  "name_ru": "Науру",
+  "hub": {
+   "city": "Науру",
+   "iata": "INU",
+   "lat": -0.5479,
+   "lon": 166.9195
+  },
+  "visa": {
+   "regime": "free",
+   "days": 14,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Перечень КД МИД России: без визы до 14 дней."
+  }
+ },
+ {
+  "iso2": "NP",
+  "name_ru": "Непал",
+  "hub": {
+   "city": "Катманду",
+   "iata": "KTM",
+   "lat": 27.6966,
+   "lon": 85.3591
+  },
+  "visa": {
+   "regime": "voa",
+   "days": 90,
+   "source_url": "https://ru.nepalembassy.gov.np/pages/visa-2/",
+   "verified_at": "2026-11-14",
+   "note": "Виза по прибытии в аэропорту Катманду на 15/30/90 дней (30/50/125 USD); Россия не входит в список исключённых стран."
+  }
+ },
+ {
+  "iso2": "NE",
+  "name_ru": "Нигер",
+  "hub": {
+   "city": "Ниамей",
+   "iata": "NIM",
+   "lat": 13.4815,
+   "lon": 2.1836
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/niger/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "Виза только в представительствах Нигера в третьих странах; в аэропорту Ниамея не выдаётся."
+  }
+ },
+ {
+  "iso2": "NG",
+  "name_ru": "Нигерия",
+  "hub": {
+   "city": "Лагос",
+   "iata": "LOS",
+   "lat": 6.5774,
+   "lon": 3.3212
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/nigeria/information-about-the-country/",
+   "verified_at": null,
+   "note": "МИД РФ: визы в диппредставительствах Нигерии. С 01.05.2025 действует e-виза (evisa.immigration.gov.ng), виза по прилёту отменена; доступность e-визы для россиян подтвердить не удалось — выбран более строгий режим."
+  }
+ },
+ {
+  "iso2": "NL",
+  "name_ru": "Нидерланды",
+  "hub": {
+   "city": "Амстердам",
+   "iata": "AMS",
+   "lat": 52.3086,
+   "lon": 4.7639
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен."
+  }
+ },
+ {
+  "iso2": "NI",
+  "name_ru": "Никарагуа",
+  "hub": {
+   "city": "Манагуа",
+   "iata": "MGA",
+   "lat": 12.1415,
+   "lon": -86.1682
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы до 90 дней в течение 180 дней."
+  }
+ },
+ {
+  "iso2": "NU",
+  "name_ru": "Ниуэ",
+  "hub": {
+   "city": "Алофи",
+   "iata": "IUE",
+   "lat": -19.0801,
+   "lon": -169.9235
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "http://www.niueisland.com/travelling-to-niue",
+   "verified_at": "2026-11-14",
+   "note": "Официальный сайт Niue Tourism: 30-дневное разрешение по прибытии только гражданам стран из списка, России в нём нет; остальным нужно заранее получить гостевую визу в иммиграционной службе Ниуэ."
+  }
+ },
+ {
+  "iso2": "NZ",
+  "name_ru": "Новая Зеландия",
+  "hub": {
+   "city": "Окленд",
+   "iata": "AKL",
+   "lat": -37.012,
+   "lon": 174.7863
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/new-zealand/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "КД МИД России: требуется виза, оформляется заранее (страница КД указывает Посольство Новой Зеландии в Москве)."
+  }
+ },
+ {
+  "iso2": "NO",
+  "name_ru": "Норвегия",
+  "hub": {
+   "city": "Осло",
+   "iata": "OSL",
+   "lat": 60.1939,
+   "lon": 11.1004
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется шенгенская виза (КД МИД России, 13.11.2026); соглашение об упрощении выдачи виз приостановлено."
+  }
+ },
+ {
+  "iso2": "AE",
+  "name_ru": "ОАЭ",
+  "hub": {
+   "city": "Дубай",
+   "iata": "DXB",
+   "lat": 25.2498,
+   "lon": 55.371
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Без визы до 90 дней в течение 180 дней (соглашение от 06.07.2018); перечень МИД РФ на 13.11.2026."
+  }
+ },
+ {
+  "iso2": "OM",
+  "name_ru": "Оман",
+  "hub": {
+   "city": "Маскат",
+   "iata": "MCT",
+   "lat": 23.6002,
+   "lon": 58.2853
+  },
+  "visa": {
+   "regime": "free",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Без визы до 30 дней за поездку, суммарно не более 90 дней в календарном году (соглашение от 22.04.2025)."
+  }
+ },
+ {
+  "iso2": "CK",
+  "name_ru": "Острова Кука",
+  "hub": {
+   "city": "Раротонга",
+   "iata": "RAR",
+   "lat": -21.2027,
+   "lon": -159.806
+  },
+  "visa": {
+   "regime": "free",
+   "days": 31,
+   "source_url": "https://mfai.gov.ck/sites/default/files/2023-06/Visas%20and%20Permits%20%281%29.pdf",
+   "verified_at": null,
+   "note": "По документу МИД и иммиграции Островов Кука (виден только в выдаче поиска, сама страница не открылась — 403) посетителям по прибытии бесплатно выдаётся разрешение до 31 дня; нужен обратный билет. Для граждан России отдельно не подтверждено; в перечне КД МИД России территория отсутствует."
+  }
+ },
+ {
+  "iso2": "PK",
+  "name_ru": "Пакистан",
+  "hub": {
+   "city": "Карачи",
+   "iata": "KHI",
+   "lat": 24.9065,
+   "lon": 67.1608
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": null,
+   "note": "Источники расходятся: по перечню и страновой странице КД МИД России требуется виза (через посольство); по вторичным данным со ссылкой на посольство Пакистана виза оформляется онлайн (visa.nadra.gov.pk), но официальные страницы открыть не удалось. Выбран более строгий вариант."
+  }
+ },
+ {
+  "iso2": "PW",
+  "name_ru": "Палау",
+  "hub": {
+   "city": "Корор",
+   "iata": "ROR",
+   "lat": 7.367,
+   "lon": 134.5441
+  },
+  "visa": {
+   "regime": "free",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Перечень КД МИД России: без визы до 30 дней (соглашение об отмене виз с 27.12.2018). На границе бесплатно ставится разрешение на пребывание до 30 дней, возможно продление; паспорт — не менее 6 мес."
+  }
+ },
+ {
+  "iso2": "PS",
+  "name_ru": "Палестина",
+  "hub": {
+   "city": "Тель-Авив",
+   "iata": "TLV",
+   "lat": 32.0114,
+   "lon": 34.8867
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": null,
+   "note": "Перечень МИД РФ: палестинская виза требуется формально, но своего погранконтроля нет — въезд только через израильские КПП (с территории Израиля или Иордании), т.е. действуют израильские правила: ETA-IL, до 90 дней. Своего аэропорта нет; ближайший — Тель-Авив (альтернатива — Амман)."
+  }
+ },
+ {
+  "iso2": "PA",
+  "name_ru": "Панама",
+  "hub": {
+   "city": "Панама",
+   "iata": "PTY",
+   "lat": 9.0714,
+   "lon": -79.3835
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы до 90 дней в течение 180 дней."
+  }
+ },
+ {
+  "iso2": "PG",
+  "name_ru": "Папуа — Новая Гвинея",
+  "hub": {
+   "city": "Порт-Морсби",
+   "iata": "POM",
+   "lat": -9.4434,
+   "lon": 147.22
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/papua-new-guinea/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "КД МИД России: требуется виза; электронная виза оформляется заранее на сайте иммиграционной службы ПНГ, распечатка предъявляется при регистрации на рейс. Срок пребывания в источнике не указан; паспорт — не менее 12 мес."
+  }
+ },
+ {
+  "iso2": "PY",
+  "name_ru": "Парагвай",
+  "hub": {
+   "city": "Асунсьон",
+   "iata": "ASU",
+   "lat": -25.2402,
+   "lon": -57.5192
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Перечень КД МИД России (по сост. на 13.11.2026): без визы до 90 дней в течение 180 дней."
+  }
+ },
+ {
+  "iso2": "PE",
+  "name_ru": "Перу",
+  "hub": {
+   "city": "Лима",
+   "iata": "LIM",
+   "lat": -12.0219,
+   "lon": -77.1143
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Перечень КД МИД России (по сост. на 13.11.2026): без визы до 90 дней в течение 180 дней."
+  }
+ },
+ {
+  "iso2": "PL",
+  "name_ru": "Польша",
+  "hub": {
+   "city": "Варшава",
+   "iata": "WAW",
+   "lat": 52.1657,
+   "lon": 20.9671
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен. По сообщениям СМИ, страна существенно ограничила выдачу туристических виз и/или въезд россиян — уточняйте в консульстве."
+  }
+ },
+ {
+  "iso2": "PT",
+  "name_ru": "Португалия",
+  "hub": {
+   "city": "Лиссабон",
+   "iata": "LIS",
+   "lat": 38.7813,
+   "lon": -9.1359
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен."
+  }
+ },
+ {
+  "iso2": "CG",
+  "name_ru": "Республика Конго",
+  "hub": {
+   "city": "Браззавиль",
+   "iata": "BZV",
+   "lat": -4.2517,
+   "lon": 15.253
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/congo/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "Виза в консульском отделе посольства Конго в Москве; e-виза только анонсирована."
+  }
+ },
+ {
+  "iso2": "RU",
+  "name_ru": "Россия",
+  "hub": {
+   "city": "Москва",
+   "iata": "SVO",
+   "lat": 55.9775,
+   "lon": 37.3867
+  },
+  "visa": {
+   "regime": "free",
+   "days": null,
+   "source_url": null,
+   "verified_at": null,
+   "note": "Страна паспорта."
+  },
+  "home": true
+ },
+ {
+  "iso2": "RW",
+  "name_ru": "Руанда",
+  "hub": {
+   "city": "Кигали",
+   "iata": "KGL",
+   "lat": -1.9686,
+   "lon": 30.1395
+  },
+  "visa": {
+   "regime": "voa",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/docs/rwanda/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "Виза на 30 дней выдаётся по прибытии, 50 долл."
+  }
+ },
+ {
+  "iso2": "RO",
+  "name_ru": "Румыния",
+  "hub": {
+   "city": "Бухарест",
+   "iata": "OTP",
+   "lat": 44.5718,
+   "lon": 26.1033
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется виза (КД МИД России, 13.11.2026)."
+  }
+ },
+ {
+  "iso2": "SV",
+  "name_ru": "Сальвадор",
+  "hub": {
+   "city": "Сан-Сальвадор",
+   "iata": "SAL",
+   "lat": 13.4445,
+   "lon": -89.0558
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы до 90 дней в течение 180 дней."
+  }
+ },
+ {
+  "iso2": "WS",
+  "name_ru": "Самоа",
+  "hub": {
+   "city": "Апиа",
+   "iata": "APW",
+   "lat": -13.83,
+   "lon": -172.008
+  },
+  "visa": {
+   "regime": "free",
+   "days": 60,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Перечень КД МИД России: без визы до 60 дней."
+  }
+ },
+ {
+  "iso2": "SM",
+  "name_ru": "Сан-Марино",
+  "hub": {
+   "city": "Болонья",
+   "iata": "BLQ",
+   "lat": 44.5354,
+   "lon": 11.2887
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется виза: въезд возможен при наличии шенгенской визы, выданной третьим государством (КД МИД России, 13.11.2026). Своего аэропорта нет, добираться через Болонья/Римини."
+  }
+ },
+ {
+  "iso2": "ST",
+  "name_ru": "Сан-Томе и Принсипи",
+  "hub": {
+   "city": "Сан-Томе",
+   "iata": "TMS",
+   "lat": 0.3782,
+   "lon": 6.7122
+  },
+  "visa": {
+   "regime": "free",
+   "days": 15,
+   "source_url": "https://www.kdmid.ru/docs/sao-tome-and-principe/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "Без визы до 15 суток (односторонне, с 25.04.2017)."
+  }
+ },
+ {
+  "iso2": "SA",
+  "name_ru": "Саудовская Аравия",
+  "hub": {
+   "city": "Джидда",
+   "iata": "JED",
+   "lat": 21.6802,
+   "lon": 39.1574
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Без визы до 90 дней в течение календарного года (соглашение от 01.12.2025); не распространяется на хадж и умру в период хаджа."
+  }
+ },
+ {
+  "iso2": "KP",
+  "name_ru": "Северная Корея",
+  "hub": {
+   "city": "Пхеньян",
+   "iata": "FNJ",
+   "lat": 39.2241,
+   "lon": 125.67
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "По перечню КД МИД России для общегражданских паспортов требуется виза (безвиз до 90 дней — только для дипломатических/служебных)."
+  }
+ },
+ {
+  "iso2": "MK",
+  "name_ru": "Северная Македония",
+  "hub": {
+   "city": "Скопье",
+   "iata": "SKP",
+   "lat": 41.9581,
+   "lon": 21.6226
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/macedonia/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "Безвиз отменён с 15.03.2022; e-visa и визы по прибытии нет. Исключение: ВНЖ ЕС или многократная шенгенская виза C — до 15 дней."
+  }
+ },
+ {
+  "iso2": "SC",
+  "name_ru": "Сейшельские Острова",
+  "hub": {
+   "city": "Виктория",
+   "iata": "SEZ",
+   "lat": -4.6743,
+   "lon": 55.5218
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": null,
+   "note": "Виза не требуется, без визы до 30 дней (соглашение от 02.09.2015, подтверждено КД МИД РФ). Однако перед поездкой оформляется платное электронное разрешение Travel Authorisation (seychelles.govtas.com); его обязательность и стоимость по официальному источнику в этой сессии подтвердить не удалось, поэтому выбран более строгий режим."
+  }
+ },
+ {
+  "iso2": "SN",
+  "name_ru": "Сенегал",
+  "hub": {
+   "city": "Дакар",
+   "iata": "DSS",
+   "lat": 14.6709,
+   "lon": -17.0728
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/senegal/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "МИД РФ: въездные документы оформляются заранее в посольстве Сенегала в Москве (поездки до 90 дней). Сторонние сайты противоречивы (безвиз/виза по прилёту) — официально не подтверждено."
+  }
+ },
+ {
+  "iso2": "VC",
+  "name_ru": "Сент-Винсент и Гренадины",
+  "hub": {
+   "city": "Кингстаун",
+   "iata": "SVD",
+   "lat": 13.1597,
+   "lon": -61.1488
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы до 90 дней в течение 180 дней."
+  }
+ },
+ {
+  "iso2": "KN",
+  "name_ru": "Сент-Китс и Невис",
+  "hub": {
+   "city": "Бастер",
+   "iata": "SKB",
+   "lat": 17.3108,
+   "lon": -62.7191
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы до 90 дней из каждых 180 дней."
+  }
+ },
+ {
+  "iso2": "LC",
+  "name_ru": "Сент-Люсия",
+  "hub": {
+   "city": "Вьё-Фор",
+   "iata": "UVF",
+   "lat": 13.7332,
+   "lon": -60.9526
+  },
+  "visa": {
+   "regime": "free",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы (в одностороннем порядке), срок в таблице не указан; по неофициальным данным — до 6 недель, официально подтвердить не удалось."
+  }
+ },
+ {
+  "iso2": "RS",
+  "name_ru": "Сербия",
+  "hub": {
+   "city": "Белград",
+   "iata": "BEG",
+   "lat": 44.8184,
+   "lon": 20.3091
+  },
+  "visa": {
+   "regime": "free",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Без визы до 30 дней (соглашение от 20.02.2009)."
+  }
+ },
+ {
+  "iso2": "SG",
+  "name_ru": "Сингапур",
+  "hub": {
+   "city": "Сингапур",
+   "iata": "SIN",
+   "lat": 1.3502,
+   "lon": 103.994
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://moscow.mfa.gov.sg/visa-information/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется виза; подаётся заранее через авторизованного визового агента (сбор 30 SGD)."
+  }
+ },
+ {
+  "iso2": "SY",
+  "name_ru": "Сирия",
+  "hub": {
+   "city": "Дамаск",
+   "iata": "DAM",
+   "lat": 33.4115,
+   "lon": 36.5156
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/syria/information-about-the-country/",
+   "verified_at": null,
+   "note": "Перечень МИД РФ: требуется виза. Страница МИД РФ по Сирии (данные 2024 г.): визу можно получить на границе/в аэропорту при наличии приглашения сирийской стороны (50 USD); актуальность и срок пребывания не подтверждены, МИД РФ рекомендует воздержаться от поездок. Выбран более строгий вариант."
+  }
+ },
+ {
+  "iso2": "SK",
+  "name_ru": "Словакия",
+  "hub": {
+   "city": "Братислава",
+   "iata": "BTS",
+   "lat": 48.1702,
+   "lon": 17.2127
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен."
+  }
+ },
+ {
+  "iso2": "SI",
+  "name_ru": "Словения",
+  "hub": {
+   "city": "Любляна",
+   "iata": "LJU",
+   "lat": 46.2237,
+   "lon": 14.4576
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен."
+  }
+ },
+ {
+  "iso2": "SB",
+  "name_ru": "Соломоновы Острова",
+  "hub": {
+   "city": "Хониара",
+   "iata": "HIR",
+   "lat": -9.428,
+   "lon": 160.055
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Перечень КД МИД России: требуется виза."
+  }
+ },
+ {
+  "iso2": "SO",
+  "name_ru": "Сомали",
+  "hub": {
+   "city": "Могадишо",
+   "iata": "MGQ",
+   "lat": 2.0144,
+   "lon": 45.3047
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/somalia/information-about-the-country/",
+   "verified_at": null,
+   "note": "По данным КД МИД РФ виза оформляется в посольстве Сомали в Москве. Сторонние источники сообщают об электронной системе eTAS, но официальный портал был недоступен для проверки."
+  }
+ },
+ {
+  "iso2": "SD",
+  "name_ru": "Судан",
+  "hub": {
+   "city": "Порт-Судан",
+   "iata": "PZU",
+   "lat": 19.4346,
+   "lon": 37.2341
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется виза (перечень МИД РФ на 13.11.2026); безвиз только для дипломатических паспортов."
+  }
+ },
+ {
+  "iso2": "SR",
+  "name_ru": "Суринам",
+  "hub": {
+   "city": "Парамарибо",
+   "iata": "PBM",
+   "lat": 5.4528,
+   "lon": -55.1878
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": null,
+   "note": "Источники расходятся: по перечню и странице КД МИД России — без визы до 90 дней; авиакомпания SLM (flyslm.com) сообщает, что все туристы обязаны заранее онлайн (VFS Global) оплатить въездной сбор Entry Fee, оплата по прилёте невозможна. Распространяется ли сбор на россиян — не подтверждено; выбран более строгий вариант."
+  }
+ },
+ {
+  "iso2": "US",
+  "name_ru": "США",
+  "hub": {
+   "city": "Нью-Йорк",
+   "iata": "JFK",
+   "lat": 40.6394,
+   "lon": -73.7793
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): требуется виза."
+  }
+ },
+ {
+  "iso2": "SL",
+  "name_ru": "Сьерра-Леоне",
+  "hub": {
+   "city": "Фритаун",
+   "iata": "FNA",
+   "lat": 8.6164,
+   "lon": -13.1955
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/sierra-leone/information-about-the-country/",
+   "verified_at": null,
+   "note": "МИД РФ: визы в посольстве Сьерра-Леоне в Москве. У иммиграционной службы есть e-виза/виза по прилёту (slid.gov.sl, evisa.sl), но условия для россиян подтвердить не удалось — выбран более строгий режим."
+  }
+ },
+ {
+  "iso2": "TJ",
+  "name_ru": "Таджикистан",
+  "hub": {
+   "city": "Душанбе",
+   "iata": "DYU",
+   "lat": 38.5437,
+   "lon": 68.823
+  },
+  "visa": {
+   "regime": "free",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/tajikistan/information-about-the-country/",
+   "verified_at": null,
+   "note": "Безвизовый режим подтверждён КД МИД РФ (по загранпаспорту; регистрация не позднее 3-го рабочего дня при пребывании дольше). Максимальный срок пребывания в официальном источнике не указан; неофициальные источники расходятся (90 дней / без ограничений)."
+  }
+ },
+ {
+  "iso2": "TH",
+  "name_ru": "Таиланд",
+  "hub": {
+   "city": "Бангкок",
+   "iata": "BKK",
+   "lat": 13.6811,
+   "lon": 100.747
+  },
+  "visa": {
+   "regime": "free",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Без визы до 30 дней (с 15.09.2026 вместо 60). Перед прилётом заполняется бесплатная цифровая карта прибытия TDAC."
+  }
+ },
+ {
+  "iso2": "TW",
+  "name_ru": "Тайвань",
+  "hub": {
+   "city": "Тайбэй",
+   "iata": "TPE",
+   "lat": 25.0777,
+   "lon": 121.233
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 30,
+   "source_url": "https://visawebapp.boca.gov.tw/BOCA_EVISA/MRV04FORM.do",
+   "verified_at": "2026-11-14",
+   "note": "Электронная виза для обычных паспортов РФ с 07.07.2026 по 06.07.2027: однократная, до 30 дней, без продления."
+  }
+ },
+ {
+  "iso2": "TZ",
+  "name_ru": "Танзания",
+  "hub": {
+   "city": "Дар-эс-Салам",
+   "iata": "DAR",
+   "lat": -6.8735,
+   "lon": 39.2073
+  },
+  "visa": {
+   "regime": "voa",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/docs/tanzania/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "Виза по прилёте либо онлайн (eservices.immigration.go.tz); однократная до 90 дней, 50 долл."
+  }
+ },
+ {
+  "iso2": "TG",
+  "name_ru": "Того",
+  "hub": {
+   "city": "Ломе",
+   "iata": "LFW",
+   "lat": 6.1656,
+   "lon": 1.2545
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/docs/togo/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "E-виза через voyage.gouv.tg, подавать не менее чем за 7 дней; до 90 дней."
+  }
+ },
+ {
+  "iso2": "TO",
+  "name_ru": "Тонга",
+  "hub": {
+   "city": "Нукуалофа",
+   "iata": "TBU",
+   "lat": -21.2414,
+   "lon": -175.1492
+  },
+  "visa": {
+   "regime": "free",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Перечень КД МИД России: для российских граждан без визы до 30 дней (в одностороннем порядке)."
+  }
+ },
+ {
+  "iso2": "TT",
+  "name_ru": "Тринидад и Тобаго",
+  "hub": {
+   "city": "Порт-оф-Спейн",
+   "iata": "POS",
+   "lat": 10.5953,
+   "lon": -61.3376
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы до 90 дней (в одностороннем порядке)."
+  }
+ },
+ {
+  "iso2": "TV",
+  "name_ru": "Тувалу",
+  "hub": {
+   "city": "Фунафути",
+   "iata": "FUN",
+   "lat": -8.5239,
+   "lon": 179.197
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": null,
+   "note": "Источники расходятся: перечень КД МИД России (13.11.2026) — требуется виза; неофициальные источники сообщают о визе по прибытии до 30 дней в аэропорту Фунафути. Официального подтверждения Тувалу не найдено; выбран более строгий вариант."
+  }
+ },
+ {
+  "iso2": "TN",
+  "name_ru": "Тунис",
+  "hub": {
+   "city": "Тунис",
+   "iata": "TUN",
+   "lat": 36.851,
+   "lon": 10.2272
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Без визы до 90 дней (в одностороннем порядке)."
+  }
+ },
+ {
+  "iso2": "TM",
+  "name_ru": "Туркмения",
+  "hub": {
+   "city": "Ашхабад",
+   "iata": "ASB",
+   "lat": 37.9868,
+   "lon": 58.361
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/turkmenistan/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "По общегражданским паспортам въезд только по визе (соглашение от 17.07.1999); безвиз до 30 дней лишь для дипломатических и служебных паспортов."
+  }
+ },
+ {
+  "iso2": "TR",
+  "name_ru": "Турция",
+  "hub": {
+   "city": "Стамбул",
+   "iata": "IST",
+   "lat": 41.2749,
+   "lon": 28.7321
+  },
+  "visa": {
+   "regime": "free",
+   "days": 60,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Без визы до 60 дней за въезд (решение Совмина Турции с 16.05.2013), не более 90 дней в течение 180 дней."
+  }
+ },
+ {
+  "iso2": "UG",
+  "name_ru": "Уганда",
+  "hub": {
+   "city": "Энтеббе",
+   "iata": "EBB",
+   "lat": 0.0424,
+   "lon": 32.4435
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/docs/uganda/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "Заявка на визу подаётся заранее онлайн, распечатанное подтверждение предъявляется в аэропорту; однократная туристическая виза на 90 дней, 50 долл."
+  }
+ },
+ {
+  "iso2": "UZ",
+  "name_ru": "Узбекистан",
+  "hub": {
+   "city": "Ташкент",
+   "iata": "TAS",
+   "lat": 41.2579,
+   "lon": 69.2812
+  },
+  "visa": {
+   "regime": "free",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/uzbekistan/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "Виза не нужна; фиксированного лимита нет — пребывание в пределах срока регистрации (первые 15 дней без регистрации)."
+  }
+ },
+ {
+  "iso2": "UA",
+  "name_ru": "Украина",
+  "hub": {
+   "city": "Киев",
+   "iata": "KBP",
+   "lat": 50.345,
+   "lon": 30.8947
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Для россиян требуется виза (введена Украиной в одностороннем порядке). Гражданское авиасообщение с Украиной закрыто; хаб указан номинально."
+  }
+ },
+ {
+  "iso2": "UY",
+  "name_ru": "Уругвай",
+  "hub": {
+   "city": "Монтевидео",
+   "iata": "MVD",
+   "lat": -34.8356,
+   "lon": -56.0265
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Перечень КД МИД России (по сост. на 13.11.2026): без визы до 90 дней в течение 180 дней."
+  }
+ },
+ {
+  "iso2": "FJ",
+  "name_ru": "Фиджи",
+  "hub": {
+   "city": "Нади",
+   "iata": "NAN",
+   "lat": -17.7618,
+   "lon": 177.4378
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Перечень КД МИД России: без визы до 90 дней."
+  }
+ },
+ {
+  "iso2": "PH",
+  "name_ru": "Филиппины",
+  "hub": {
+   "city": "Манила",
+   "iata": "MNL",
+   "lat": 14.5086,
+   "lon": 121.02
+  },
+  "visa": {
+   "regime": "free",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Без визы до 30 дней (в одностороннем порядке)."
+  }
+ },
+ {
+  "iso2": "FI",
+  "name_ru": "Финляндия",
+  "hub": {
+   "city": "Хельсинки",
+   "iata": "HEL",
+   "lat": 60.3184,
+   "lon": 24.9633
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен. По сообщениям СМИ, страна существенно ограничила выдачу туристических виз и/или въезд россиян — уточняйте в консульстве."
+  }
+ },
+ {
+  "iso2": "FR",
+  "name_ru": "Франция",
+  "hub": {
+   "city": "Париж",
+   "iata": "CDG",
+   "lat": 49.009,
+   "lon": 2.5541
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен."
+  }
+ },
+ {
+  "iso2": "HR",
+  "name_ru": "Хорватия",
+  "hub": {
+   "city": "Загреб",
+   "iata": "ZAG",
+   "lat": 45.7429,
+   "lon": 16.0688
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется виза (КД МИД России, 13.11.2026); страна входит в Шенген."
+  }
+ },
+ {
+  "iso2": "CF",
+  "name_ru": "ЦАР",
+  "hub": {
+   "city": "Банги",
+   "iata": "BGF",
+   "lat": 4.3985,
+   "lon": 18.5188
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/central-african-republic/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "Виза в посольстве ЦАР в Москве."
+  }
+ },
+ {
+  "iso2": "TD",
+  "name_ru": "Чад",
+  "hub": {
+   "city": "Нджамена",
+   "iata": "NDJ",
+   "lat": 12.1337,
+   "lon": 15.034
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/chad/information-about-the-country/",
+   "verified_at": null,
+   "note": "МИД РФ: виза в диппредставительстве Чада. По неофициальным данным с 11.05.2026 заявки принимаются только через портал evisa.td — официально подтвердить не удалось, выбран более строгий режим."
+  }
+ },
+ {
+  "iso2": "ME",
+  "name_ru": "Черногория",
+  "hub": {
+   "city": "Подгорица",
+   "iata": "TGD",
+   "lat": 42.3594,
+   "lon": 19.2519
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/montenegro/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "С 1 ноября 2026 г. Черногория ввела визы для россиян (соглашение 2008 г. прекращено); подача через визовые центры и посольство в Москве."
+  }
+ },
+ {
+  "iso2": "CZ",
+  "name_ru": "Чехия",
+  "hub": {
+   "city": "Прага",
+   "iata": "PRG",
+   "lat": 50.1009,
+   "lon": 14.2599
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен. По сообщениям СМИ, страна существенно ограничила выдачу туристических виз и/или въезд россиян — уточняйте в консульстве."
+  }
+ },
+ {
+  "iso2": "CL",
+  "name_ru": "Чили",
+  "hub": {
+   "city": "Сантьяго",
+   "iata": "SCL",
+   "lat": -33.393,
+   "lon": -70.7858
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Перечень КД МИД России (по сост. на 13.11.2026): без визы до 90 дней в течение 180 дней."
+  }
+ },
+ {
+  "iso2": "CH",
+  "name_ru": "Швейцария",
+  "hub": {
+   "city": "Цюрих",
+   "iata": "ZRH",
+   "lat": 47.4581,
+   "lon": 8.5481
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется шенгенская виза (КД МИД России, 13.11.2026); соглашение об упрощении выдачи виз приостановлено."
+  }
+ },
+ {
+  "iso2": "SE",
+  "name_ru": "Швеция",
+  "hub": {
+   "city": "Стокгольм",
+   "iata": "ARN",
+   "lat": 59.6485,
+   "lon": 17.9288
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен."
+  }
+ },
+ {
+  "iso2": "LK",
+  "name_ru": "Шри-Ланка",
+  "hub": {
+   "city": "Коломбо",
+   "iata": "CMB",
+   "lat": 7.1808,
+   "lon": 79.8841
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 30,
+   "source_url": "https://www.immigration.gov.lk/content/files/visa/Free%20Tourist%20Visas%20for%20Nationals%20of%2040%20Selected%20Countries.pdf",
+   "verified_at": "2026-11-14",
+   "note": "Обязательное электронное разрешение ETA до прилёта; с 25.05.2026 для граждан России бесплатно, 30 дней, двукратный въезд."
+  }
+ },
+ {
+  "iso2": "EC",
+  "name_ru": "Эквадор",
+  "hub": {
+   "city": "Кито",
+   "iata": "UIO",
+   "lat": -0.1254,
+   "lon": -78.3543
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Перечень КД МИД России (по сост. на 13.11.2026): без визы до 90 дней в течение 180 дней."
+  }
+ },
+ {
+  "iso2": "GQ",
+  "name_ru": "Экваториальная Гвинея",
+  "hub": {
+   "city": "Малабо",
+   "iata": "SSG",
+   "lat": 3.7553,
+   "lon": 8.7087
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/equatorial-guinea/information-about-the-country/",
+   "verified_at": null,
+   "note": "МИД РФ: консульская виза (обычно на 30 дней). По неофициальным данным с 2023 г. действует e-виза, но официальный портал и условия подтвердить не удалось — выбран более строгий режим."
+  }
+ },
+ {
+  "iso2": "ER",
+  "name_ru": "Эритрея",
+  "hub": {
+   "city": "Асмэра",
+   "iata": "ASM",
+   "lat": 15.2919,
+   "lon": 38.9107
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/eritrea/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note": "Визу нужно получить заранее в дипломатическом представительстве Эритреи; виза в аэропорту только в исключительном порядке."
+  }
+ },
+ {
+  "iso2": "SZ",
+  "name_ru": "Эсватини",
+  "hub": {
+   "city": "Манзини",
+   "iata": "SHO",
+   "lat": -26.3586,
+   "lon": 31.7169
+  },
+  "visa": {
+   "regime": "free",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/docs/eswatini/information-about-the-country/",
+   "verified_at": null,
+   "note": "По данным КД МИД РФ въездные визы для россиян упразднены с 12.06.2007; срок безвизового пребывания (30 дней) официальным источником прямо не подтверждён. Двустороннего соглашения по общегражданским паспортам нет."
+  }
+ },
+ {
+  "iso2": "EE",
+  "name_ru": "Эстония",
+  "hub": {
+   "city": "Таллин",
+   "iata": "TLL",
+   "lat": 59.4132,
+   "lon": 24.8326
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется шенгенская виза (КД МИД России, по состоянию на 13.11.2026). Упрощённый визовый режим с ЕС приостановлен. По сообщениям СМИ, страна существенно ограничила выдачу туристических виз и/или въезд россиян — уточняйте в консульстве."
+  }
+ },
+ {
+  "iso2": "ET",
+  "name_ru": "Эфиопия",
+  "hub": {
+   "city": "Аддис-Абеба",
+   "iata": "ADD",
+   "lat": 8.9779,
+   "lon": 38.7993
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/ethiopia/information-about-the-country/",
+   "verified_at": null,
+   "note": "КД МИД РФ рекомендует электронную визу (evisa.gov.et); упоминается и виза по прилёте в аэропорту Боле, но распространение её на россиян и срок пребывания не подтверждены (сторонние сайты: 30 дней). Выбран более строгий режим."
+  }
+ },
+ {
+  "iso2": "ZA",
+  "name_ru": "ЮАР",
+  "hub": {
+   "city": "Йоханнесбург",
+   "iata": "JNB",
+   "lat": -26.1401,
+   "lon": 28.2468
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Без визы до 90 дней."
+  }
+ },
+ {
+  "iso2": "KR",
+  "name_ru": "Южная Корея",
+  "hub": {
+   "city": "Сеул",
+   "iata": "ICN",
+   "lat": 37.4691,
+   "lon": 126.451
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 60,
+   "source_url": "https://www.k-eta.go.kr/portal/guide/viewetaalification.do",
+   "verified_at": "2026-11-14",
+   "note": "Безвиз до 60 дней подряд (не более 90 за 180), но обязательно электронное разрешение K-ETA до поездки; Россия в списке стран K-ETA. Освобождены лица до 17 и от 65 лет."
+  }
+ },
+ {
+  "iso2": "SS",
+  "name_ru": "Южный Судан",
+  "hub": {
+   "city": "Джуба",
+   "iata": "JUB",
+   "lat": 4.872,
+   "lon": 31.6011
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/south-sudan/information-about-the-country/",
+   "verified_at": null,
+   "note": "Источники расходятся: по данным КД МИД РФ (сведения устаревшие) виза оформляется заранее в посольстве, в аэропорту не выдаётся; при этом действует официальный портал электронных виз evisa.gov.ss, но право россиян на e-visa и срок пребывания подтвердить не удалось. Выбран более строгий режим."
+  }
+ },
+ {
+  "iso2": "JM",
+  "name_ru": "Ямайка",
+  "hub": {
+   "city": "Монтего-Бей",
+   "iata": "MBJ",
+   "lat": 18.5034,
+   "lon": -77.9132
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Сводная таблица КД МИД России (по состоянию на 13.11.2026): без визы до 90 дней в течение 1 года."
+  }
+ },
+ {
+  "iso2": "JP",
+  "name_ru": "Япония",
+  "hub": {
+   "city": "Токио",
+   "iata": "NRT",
+   "lat": 35.7686,
+   "lon": 140.3887
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note": "Требуется виза (перечень и страновая страница КД МИД России)."
+  }
+ }
+]

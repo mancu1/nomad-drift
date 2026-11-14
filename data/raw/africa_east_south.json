@@ -1,0 +1,324 @@
+[
+ {
+  "iso2": "BI",
+  "hub": {
+   "city_ru": "Бужумбура",
+   "iata": "BJM"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/burundi/information-about-the-country/",
+   "verified_at": null,
+   "note_ru": "По данным КД МИД РФ визу нужно оформить заранее в посольстве Бурунди в Москве; на практике визу иногда выдают на границе (сторонние сайты называют визу по прилёте стандартной), но официально это не гарантировано. Источники расходятся."
+  }
+ },
+ {
+  "iso2": "KM",
+  "hub": {
+   "city_ru": "Морони",
+   "iata": "HAH"
+  },
+  "visa": {
+   "regime": "voa",
+   "days": 45,
+   "source_url": "https://www.kdmid.ru/docs/comoros/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Однократная виза на 45 дней выдаётся в аэропорту (около 60 евро); нужны обратный билет и бронь отеля."
+  }
+ },
+ {
+  "iso2": "DJ",
+  "hub": {
+   "city_ru": "Джибути",
+   "iata": "JIB"
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/djibouti/information-about-the-country/",
+   "verified_at": null,
+   "note_ru": "Электронная виза (evisa.gouv.dj, около 23 долл.); виза по прилёте в общегражданский паспорт не выдаётся. Срок пребывания по официальным источникам подтвердить не удалось."
+  }
+ },
+ {
+  "iso2": "ER",
+  "hub": {
+   "city_ru": "Асмэра",
+   "iata": "ASM"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/eritrea/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Визу нужно получить заранее в дипломатическом представительстве Эритреи; виза в аэропорту только в исключительном порядке."
+  }
+ },
+ {
+  "iso2": "ET",
+  "hub": {
+   "city_ru": "Аддис-Абеба",
+   "iata": "ADD"
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/ethiopia/information-about-the-country/",
+   "verified_at": null,
+   "note_ru": "КД МИД РФ рекомендует электронную визу (evisa.gov.et); упоминается и виза по прилёте в аэропорту Боле, но распространение её на россиян и срок пребывания не подтверждены (сторонние сайты: 30 дней). Выбран более строгий режим."
+  }
+ },
+ {
+  "iso2": "KE",
+  "hub": {
+   "city_ru": "Найроби",
+   "iata": "NBO"
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/docs/kenya/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Обязательное электронное разрешение eTA (etakenya.go.ke), подавать не позднее чем за 72 часа, 35 долл.; с 05.10.2026 обязателен медицинский полис (около 45 долл.). Предельный срок пребывания 90 дней."
+  }
+ },
+ {
+  "iso2": "MG",
+  "hub": {
+   "city_ru": "Антананариву",
+   "iata": "TNR"
+  },
+  "visa": {
+   "regime": "voa",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/madagascar/information-about-the-country/",
+   "verified_at": null,
+   "note_ru": "Виза выдаётся по прилёте в международных аэропортах (сбор наличными); срок пребывания по официальным источникам подтвердить не удалось (сторонние сайты: варианты 15/30/60 дней)."
+  }
+ },
+ {
+  "iso2": "MW",
+  "hub": {
+   "city_ru": "Лилонгве",
+   "iata": "LLW"
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/docs/malawi/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Электронная виза заранее (evisa.gov.mw), 50 долл., рассмотрение 10–14 дней; 30 дней с продлением до 90."
+  }
+ },
+ {
+  "iso2": "MU",
+  "hub": {
+   "city_ru": "Маврикий",
+   "iata": "MRU"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 60,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Без визы до 60 дней, но не более 90 дней в течение 180 дней (соглашение от 23.12.2015)."
+  }
+ },
+ {
+  "iso2": "MZ",
+  "hub": {
+   "city_ru": "Мапуту",
+   "iata": "MPM"
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 30,
+   "source_url": "https://evisa.gov.mz/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Визы не требуется, но обязательна предварительная онлайн-регистрация (eTA) на evisa.gov.mz не менее чем за 48 часов до въезда, сбор около 10 долл.; до 30 дней."
+  }
+ },
+ {
+  "iso2": "RW",
+  "hub": {
+   "city_ru": "Кигали",
+   "iata": "KGL"
+  },
+  "visa": {
+   "regime": "voa",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/docs/rwanda/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Виза на 30 дней выдаётся по прибытии, 50 долл."
+  }
+ },
+ {
+  "iso2": "SC",
+  "hub": {
+   "city_ru": "Виктория",
+   "iata": "SEZ"
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": null,
+   "note_ru": "Виза не требуется, без визы до 30 дней (соглашение от 02.09.2015, подтверждено КД МИД РФ). Однако перед поездкой оформляется платное электронное разрешение Travel Authorisation (seychelles.govtas.com); его обязательность и стоимость по официальному источнику в этой сессии подтвердить не удалось, поэтому выбран более строгий режим."
+  }
+ },
+ {
+  "iso2": "SO",
+  "hub": {
+   "city_ru": "Могадишо",
+   "iata": "MGQ"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/somalia/information-about-the-country/",
+   "verified_at": null,
+   "note_ru": "По данным КД МИД РФ виза оформляется в посольстве Сомали в Москве. Сторонние источники сообщают об электронной системе eTAS, но официальный портал был недоступен для проверки."
+  }
+ },
+ {
+  "iso2": "SS",
+  "hub": {
+   "city_ru": "Джуба",
+   "iata": "JUB"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/south-sudan/information-about-the-country/",
+   "verified_at": null,
+   "note_ru": "Источники расходятся: по данным КД МИД РФ (сведения устаревшие) виза оформляется заранее в посольстве, в аэропорту не выдаётся; при этом действует официальный портал электронных виз evisa.gov.ss, но право россиян на e-visa и срок пребывания подтвердить не удалось. Выбран более строгий режим."
+  }
+ },
+ {
+  "iso2": "TZ",
+  "hub": {
+   "city_ru": "Дар-эс-Салам",
+   "iata": "DAR"
+  },
+  "visa": {
+   "regime": "voa",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/docs/tanzania/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Виза по прилёте либо онлайн (eservices.immigration.go.tz); однократная до 90 дней, 50 долл."
+  }
+ },
+ {
+  "iso2": "UG",
+  "hub": {
+   "city_ru": "Энтеббе",
+   "iata": "EBB"
+  },
+  "visa": {
+   "regime": "evisa",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/docs/uganda/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Заявка на визу подаётся заранее онлайн, распечатанное подтверждение предъявляется в аэропорту; однократная туристическая виза на 90 дней, 50 долл."
+  }
+ },
+ {
+  "iso2": "ZM",
+  "hub": {
+   "city_ru": "Лусака",
+   "iata": "LUN"
+  },
+  "visa": {
+   "regime": "voa",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/zambia/information-about-the-country/",
+   "verified_at": null,
+   "note_ru": "По данным КД МИД РФ визы выдаются в посольстве, на погранпереходах, в международных аэропортах и онлайн; срок пребывания не указан. Сторонние сайты расходятся (безвиз 90 дней / виза по прилёте / e-visa); соглашение о безвизе с РФ было на согласовании."
+  }
+ },
+ {
+  "iso2": "ZW",
+  "hub": {
+   "city_ru": "Хараре",
+   "iata": "HRE"
+  },
+  "visa": {
+   "regime": "voa",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/docs/zimbabwe/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Разовая виза на границе, 30 долл.; 30 дней с продлением до 90."
+  }
+ },
+ {
+  "iso2": "BW",
+  "hub": {
+   "city_ru": "Габороне",
+   "iata": "GBE"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Без визы до 30 дней, но не более 90 дней в течение 180 дней (соглашение от 06.06.2019)."
+  }
+ },
+ {
+  "iso2": "SZ",
+  "hub": {
+   "city_ru": "Манзини",
+   "iata": "SHO"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 30,
+   "source_url": "https://www.kdmid.ru/docs/eswatini/information-about-the-country/",
+   "verified_at": null,
+   "note_ru": "По данным КД МИД РФ въездные визы для россиян упразднены с 12.06.2007; срок безвизового пребывания (30 дней) официальным источником прямо не подтверждён. Двустороннего соглашения по общегражданским паспортам нет."
+  }
+ },
+ {
+  "iso2": "LS",
+  "hub": {
+   "city_ru": "Масеру",
+   "iata": "MSU"
+  },
+  "visa": {
+   "regime": "required",
+   "days": null,
+   "source_url": "https://www.kdmid.ru/docs/lesotho/information-about-the-country/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Виза оформляется заранее в посольствах Лесото (в т.ч. в Претории); электронные визы отменены с 2023 г., на границе визы не выдаются."
+  }
+ },
+ {
+  "iso2": "NA",
+  "hub": {
+   "city_ru": "Виндхук",
+   "iata": "WDH"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Без визы до 90 дней в течение 180 дней (соглашение от 14.04.2021)."
+  }
+ },
+ {
+  "iso2": "ZA",
+  "hub": {
+   "city_ru": "Йоханнесбург",
+   "iata": "JNB"
+  },
+  "visa": {
+   "regime": "free",
+   "days": 90,
+   "source_url": "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+   "verified_at": "2026-11-14",
+   "note_ru": "Без визы до 90 дней."
+  }
+ }
+]

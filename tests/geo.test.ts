@@ -10,7 +10,10 @@ const JFK = { lat: 40.6398, lon: -73.7789 };
 describe('haversine', () => {
   it('ноль для совпадающих точек', () => expect(haversine(IST, IST)).toBe(0));
   it('симметрична', () => expect(haversine(IST, MVD)).toBeCloseTo(haversine(MVD, IST), 9));
-  it('LHR–JFK ≈ 5540 км', () => expect(haversine(LHR, JFK)).toBeGreaterThan(5500) && expect(haversine(LHR, JFK)).toBeLessThan(5580));
+  it('LHR–JFK ≈ 5540 км', () => {
+    expect(haversine(LHR, JFK)).toBeGreaterThan(5500);
+    expect(haversine(LHR, JFK)).toBeLessThan(5580);
+  });
   it('четверть экватора', () =>
     expect(haversine({ lat: 0, lon: 0 }, { lat: 0, lon: 90 })).toBeCloseTo((Math.PI / 2) * 6371.0088, 6));
   it('через антимеридиан', () =>
@@ -25,7 +28,10 @@ describe('bearing', () => {
   it('восток', () => expect(bearing(o, { lat: 0, lon: 10 })).toBeCloseTo(90, 9));
   it('юг', () => expect(bearing(o, { lat: -10, lon: 0 })).toBeCloseTo(180, 9));
   it('запад', () => expect(bearing(o, { lat: 0, lon: -10 })).toBeCloseTo(270, 9));
-  it('LHR→JFK ≈ 288°', () => expect(bearing(LHR, JFK)).toBeGreaterThan(286) && expect(bearing(LHR, JFK)).toBeLessThan(290));
+  it('LHR→JFK ≈ 288°', () => {
+    expect(bearing(LHR, JFK)).toBeGreaterThan(286);
+    expect(bearing(LHR, JFK)).toBeLessThan(290);
+  });
   it('согласован с destination', () => {
     const p = destination(IST, 213, 1800);
     expect(bearing(IST, p)).toBeCloseTo(213, 6);
